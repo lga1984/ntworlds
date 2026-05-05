@@ -1,0 +1,13 @@
+name = "SBORKA2026"
+author = "NTUSER"
+version = "1.3.5"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6d2cb740639fc25fa33c62915216632a94618b69179a69eb6a81cce841816652"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.222"
