@@ -15,6 +15,11 @@ hash = "95260471eefa73e63432e990724810d0f6e9fa5e5fca1cbc4dd8124263330c8a"
 metafile = true
 
 [[files]]
+file = "mods/advancedae.pw.toml"
+hash = "a2aafa3ac24eef1aad644a9633f9f856271ed97c8da6a6855627f9eaea6e44f4"
+metafile = true
+
+[[files]]
 file = "mods/ae2-jei-integration.pw.toml"
 hash = "491974dc6adba0e893fb755f55dfe833a1076ba49fdf9e4f92b8b9fa069ce9b5"
 metafile = true
@@ -47,6 +52,16 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "afa4f499d946514c51f41f8f2202ac0946052b012570a210ebb31f0d0d627672"
+metafile = true
+
+[[files]]
+file = "mods/applied-experienced.pw.toml"
+hash = "4da7531d0f7f7e310de63c1749939aba6cbba619b23b0cd429485bf957e1d334"
+metafile = true
+
+[[files]]
+file = "mods/applied-flux.pw.toml"
+hash = "79145ab2f9345a30867eb8d910bb7ec9f78ff62a721e336a37c19230f95e6a72"
 metafile = true
 
 [[files]]
@@ -130,6 +145,16 @@ hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
+file = "mods/ex-pattern-provider.pw.toml"
+hash = "f8bff302408f68c7e3dc004cef9e9f63e9cc281defe174fcefd623d5b99f86cf"
+metafile = true
+
+[[files]]
+file = "mods/experiencelib.pw.toml"
+hash = "832116ba3f826af7f8ccfc56d11c19a350cd152fe194f0d27c1b1c9f3db30ed7"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "efc2c4fe9e2cc169aff61a6b7a41ea9bc7a22a90aadf0776b22de647ddf3cef6"
 metafile = true
@@ -175,6 +200,11 @@ hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
 metafile = true
 
 [[files]]
+file = "mods/glodium.pw.toml"
+hash = "9aafdd83668c1b903caf0245b0bf2de3bb743befaa78d39e74a95c9933d624ac"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
 hash = "10c6e9563ce848472a6e817c05f5801da01a0d941bee2bf9ba7a0e848cf0a334"
 metafile = true
@@ -202,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
+metafile = true
+
+[[files]]
+file = "mods/leaderboards.pw.toml"
+hash = "36556dec4313e74c6f87c027a958ed63d9f106b9554c6ddf2638d51e6c347d16"
 metafile = true
 
 [[files]]
