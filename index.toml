@@ -5,6 +5,11 @@ file = "config/modernfix-mixins.properties"
 hash = "cac2d434e5dfcd9d3e7b647cb4b825cef56a1e9ff0e23bfd4c22eea92b9bad5a"
 
 [[files]]
+file = "mods/accelerated-decay.pw.toml"
+hash = "0c31f109b6c4dca94a153fbdd827bbd5f96149fd5c7863ba0ba41fcab801afe0"
+metafile = true
+
+[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "95260471eefa73e63432e990724810d0f6e9fa5e5fca1cbc4dd8124263330c8a"
 metafile = true
@@ -80,6 +85,11 @@ hash = "cb0d95b4c9e0c8d3c37b895a79ebbfa239f0975d198e3a4646da76dca874c661"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "b66c76dd9148686b0bccc5166839892b2442197504510bd9cca1306755a18ad1"
 metafile = true
@@ -87,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/construction-sticks.pw.toml"
 hash = "893aad9df7e8e031d36ac74f9129f3cb3ad27f74db3bd4a71d32a6058f933ff6"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "616036c38fafbcaf00c0720d947ec39f571d885a014f0c81b5eeeb4193784e0e"
 metafile = true
 
 [[files]]
@@ -120,6 +135,11 @@ hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
 metafile = true
 
 [[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "266cdd6d1183bbcb5d88e3b35ed17a595feb86611aa3be37b284fd526d70ae6a"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
 metafile = true
@@ -137,6 +157,11 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "10c6e9563ce848472a6e817c05f5801da01a0d941bee2bf9ba7a0e848cf0a334"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "0a340d62ec786133c1cc6f40d86655a77055461ad65390a8679be294279d6f94"
 metafile = true
 
 [[files]]
@@ -260,8 +285,18 @@ hash = "057044d2179d9e10b616ef8fa4cc870ad350842fc5c325ce0b3766160852cd13"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
+metafile = true
+
+[[files]]
 file = "mods/no-mans-land.pw.toml"
 hash = "0ac2ef683d340a421aa6d35a5491e289ef8e5720bbb5e877a81c95ae496026a3"
+metafile = true
+
+[[files]]
+file = "mods/openblocks-elevator.pw.toml"
+hash = "bc3e79ec7c82f0e4b752ba7f41709e1e87e25169cf96b7c38dafefeaf876a80f"
 metafile = true
 
 [[files]]
@@ -292,6 +327,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "20003186772ec6d7a2968b51d67f7c107074bc895721c0f077dca8d0130160c0"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "b210b54498abff891f524a0ce32b7b81bfc88043604065bd4ece9e71c36427f4"
 metafile = true
 
 [[files]]
@@ -352,6 +392,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "b4839b51f328fbd3af8addab6905f444a425ffd8d540966766bbe2947528cba8"
+metafile = true
+
+[[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "4c00caba57fa2aa18ebf941fbe897ab444252f6baf816f5d1fea9430ac5b3779"
 metafile = true
 
 [[files]]
