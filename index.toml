@@ -50,6 +50,11 @@ hash = "0c31f109b6c4dca94a153fbdd827bbd5f96149fd5c7863ba0ba41fcab801afe0"
 metafile = true
 
 [[files]]
+file = "mods/actually-additions.pw.toml"
+hash = "34d1cc38be069139fbdc034100876673b8bfcc951d707099c44ec05398de1ecc"
+metafile = true
+
+[[files]]
 file = "mods/advanced-loot-info.pw.toml"
 hash = "e4a27a08d7affa86f9c94f39e814ac16745e6a8ab3f70c713d36eb0d861a63af"
 metafile = true
@@ -922,6 +927,11 @@ metafile = true
 [[files]]
 file = "mods/reliquified-artifacts.pw.toml"
 hash = "c3b96c81f2e2a80d2342773a7822d38073195e15e9d7f2c041259b4428657cda"
+metafile = true
+
+[[files]]
+file = "mods/repeatable-trial-vaults.pw.toml"
+hash = "ee0200fb345d843a7074fccd4f29566ad99d0dccef2a367df7ed323d7a6e8b5d"
 metafile = true
 
 [[files]]
