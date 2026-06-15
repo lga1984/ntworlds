@@ -158,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "a0f52f47c27d6ccdbee89735e459ff955ba09cdf499ef42bc901f8426be75253"
+hash = "3595ba816c9ef014350d0072b90715d99cda633c0b3c8aee7a64ce3402ade5de"
 metafile = true
 
 [[files]]
@@ -573,7 +573,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "ba6ed084c0638b2278609e9f63ac9851c796201aaab9962ed93625962c2c1bca"
+hash = "0f409227278aad1cb3470e460cffcd411ea218ef4deae9310b5affae38df0a9f"
 metafile = true
 
 [[files]]
