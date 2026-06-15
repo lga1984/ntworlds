@@ -103,6 +103,11 @@ hash = "f79d87a72026b5aef024b44cf5eedd9edb568a19f81403d20681eeb3364c3647"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "3ec3f227220562968dca05112e168c27e9027f43ec53bef1015c0c342b4bab19"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "86cf2ae835b8f3d981af2e88a4d19fdc3dc4f5aa3904c6ba30e25d77d3e9fcbb"
 metafile = true
@@ -163,6 +168,11 @@ hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
+file = "mods/drop-the-meat.pw.toml"
+hash = "eee455f8d8cb3640af28aa0eb5795315f6b56889842b0e1be48bc090175231a1"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-crawl.pw.toml"
 hash = "9f6b261565c185ab137b1f4ceceec488e4d6d262b14ef3349c4a88afdac958ae"
 metafile = true
@@ -170,6 +180,11 @@ metafile = true
 [[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "32078c39569bbb4b33d2d86a09cfc18a9f5b63a11d0ba2b186fd07341e422c92"
+metafile = true
+
+[[files]]
+file = "mods/etched.pw.toml"
+hash = "82e12d4fe6767264c396cab79de5b7165d022c8ab851765ef4e38d3a3be20232"
 metafile = true
 
 [[files]]
@@ -268,6 +283,16 @@ hash = "bc0ed43619af3b5e453ccb36412d72aef8d066594946a927155d2fbd440e4b40"
 metafile = true
 
 [[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "ec000d411bc7cb81fb2a9723e57e8568209e2a67eb7ce2fc7f0e35e4daf14043"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "e53136ead606a4431a7d9f4e62337363cf8ccd0da122443c00d0ba2f375d364b"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
 metafile = true
@@ -285,11 +310,6 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "05aa5d04a38f1c1829e39056462b003a8cd313e22c5cd9e015a8bb413a14fdc7"
-metafile = true
-
-[[files]]
-file = "mods/kubejs.pw.toml"
-hash = "018fd970193f808f8c28f873d8b8c69ac9ba134712c7db27fc8d639cb226c9a6"
 metafile = true
 
 [[files]]
@@ -438,6 +458,11 @@ hash = "79f1bf57f51a4b58fe3c4dde58d1f2768dc2246fe2ffd1dd3942a7ee421f1557"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8b725f1822c0feab9e51bef600f2ee6f4c26efbb55aa3ee9073a027f1f134202"
 metafile = true
@@ -465,11 +490,6 @@ metafile = true
 [[files]]
 file = "mods/reliquified-artifacts.pw.toml"
 hash = "c3b96c81f2e2a80d2342773a7822d38073195e15e9d7f2c041259b4428657cda"
-metafile = true
-
-[[files]]
-file = "mods/rhino.pw.toml"
-hash = "2e8064e6ac6f707d6df65ee2738279ec31802ef70514584bb8c8a8ed2010f5f6"
 metafile = true
 
 [[files]]
@@ -575,4 +595,9 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "75226d6628d07c4f19e9adcc02f0b36a7f50bbf9071c0971cbacd04b4d4f4799"
+metafile = true
+
+[[files]]
+file = "mods/yeetusexperimentus.pw.toml"
+hash = "76b07f47147fb18bb31d8719f9c7beb6622b55f59ae14411c7cf022b4d99d910"
 metafile = true
