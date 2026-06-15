@@ -392,6 +392,11 @@ hash = "b4b08d948a7cb2725e0703b54d2534a432a8d4a6dc97b4f49d04c164c6bc7515"
 metafile = true
 
 [[files]]
+file = "mods/extended-industrialization.pw.toml"
+hash = "dfa25338d527f169d2352422f8b6b76ca90105529cba86a335a593555d8848fa"
+metafile = true
+
+[[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
 hash = "82d72ac4b1d62c7a1d14de30f403513dead518f1218f94ddba452f2f4bca21c2"
 metafile = true
@@ -489,6 +494,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "0a340d62ec786133c1cc6f40d86655a77055461ad65390a8679be294279d6f94"
+metafile = true
+
+[[files]]
+file = "mods/industrialization-overdrive.pw.toml"
+hash = "83d0e8025244742927812d318d6573178f5e3b2ea1d5fe7f753825decf193efc"
 metafile = true
 
 [[files]]
@@ -682,8 +692,18 @@ hash = "20ba1021bb3047a3c56ffa39b40c97638211934b3fb129b9ee9b66e99387822d"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-curios.pw.toml"
+hash = "9a68b7147925f990361923baf0647016ca2f2249c6f95db8e3c46d997dc175de"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "d270c535152d5388823cbd3913a0f14b088ef14f91f9eec61444f1102d19bdc1"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-ponders.pw.toml"
+hash = "44488ee5ed9a3dfe91afc3245b763ebc228801bd34724707b3665afa7fedde03"
 metafile = true
 
 [[files]]
@@ -709,6 +729,16 @@ metafile = true
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "2fb7e655ff6cd74cf4d97ce3cdb14c606e015ae3c59fa0a970deaddd990b6a80"
+metafile = true
+
+[[files]]
+file = "mods/modern-industrialization-sound-addon.pw.toml"
+hash = "c793bbd33f505e3be3708426f743983c7ce2c6ca137134a61babdb6b16bc4d7e"
+metafile = true
+
+[[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "858b72a7b25402e2b017a47415ce5561fcbf1d73314e60355901efedc1c01e0a"
 metafile = true
 
 [[files]]
@@ -794,6 +824,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "95a6a89925311566a6f8f2f4f817f266c1bcc4bea61b2cb5a37801c7c0804aa4"
 metafile = true
 
 [[files]]
@@ -944,6 +979,11 @@ metafile = true
 [[files]]
 file = "mods/tacz-1-21-1.pw.toml"
 hash = "bb5aec52942c79e677ee8916e56aafcf5ff5df631ac7d819915cd5bf8bfaadff"
+metafile = true
+
+[[files]]
+file = "mods/tesseract-api-neoforge.pw.toml"
+hash = "342d9216ee6f19851584f0ab9fdf905c235528babed71d0c78131eb72402ddec"
 metafile = true
 
 [[files]]
