@@ -5,6 +5,10 @@ file = "config/dropthemeat-common.toml"
 hash = "5b51eb22c89abfa5ebebad9e469875f42a8b0842b71e455f219434feed2438df"
 
 [[files]]
+file = "config/ftbessentials.snbt"
+hash = "bff44929f72d7fd63a70165e1a40bebd2588497bd64cdb9763dd05d4c990f203"
+
+[[files]]
 file = "config/ftbultimine-server.snbt"
 hash = "23c03d1908da7dda32407db98af75a977c63a7cef0dea7cae7736152fe101f0b"
 
