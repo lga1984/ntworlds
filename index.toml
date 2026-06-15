@@ -111,6 +111,31 @@ hash = "bf68b426ab3361b1257ff1c3a8c0355475807d5f18332eebaca7754bcef945b3"
 metafile = true
 
 [[files]]
+file = "mods/apotheosis-x-irons-spellbooks-compat.pw.toml"
+hash = "095d4189773e25457a7822bf1630469d73094e8b9158843552946274c9cc3f57"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "12ec709b083f056a71c4686f0fcda98fba38e7d6d850f8357ee8332969833ad0"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "014ee07aad95d234a4be89ab018d7cc72b9b41999bf0d5f45de11b509a10bd5e"
+metafile = true
+
+[[files]]
+file = "mods/apothic-enchanting.pw.toml"
+hash = "803464cf825c0bdb8043e8cbb8667dcbed01a50fd70b0525215dcd177683a8dc"
+metafile = true
+
+[[files]]
+file = "mods/apothic-spawners.pw.toml"
+hash = "73c6535aa33ece6287b6434c21edc5c16635003442e95c57b410b3acb4957a95"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3f910a2722d6884203aba5eee8f5c129ea3c2e0b78bc683b2d7b5604fec755f5"
 metafile = true
@@ -466,6 +491,11 @@ hash = "3529bc9c3a7b54933869be1d1d84a948d091c3d6064bbb6b17874d7c153b4dca"
 metafile = true
 
 [[files]]
+file = "mods/gateways-to-eternity.pw.toml"
+hash = "a918d214c27222c510f6526721a1c41b0111221ac348c7d20b2a28d4691dfdd4"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
 metafile = true
@@ -518,6 +548,11 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "bc0ed43619af3b5e453ccb36412d72aef8d066594946a927155d2fbd440e4b40"
+metafile = true
+
+[[files]]
+file = "mods/irons-apothic-invaders.pw.toml"
+hash = "c1da83a3145e1cae6db9efdddb4ba4b9a11c64d0038049cd49e5684e0a9a6259"
 metafile = true
 
 [[files]]
@@ -816,6 +851,11 @@ hash = "e552cd6521dd695465502430f1001cf98b87bc534c72b27a98d16e2c3a13b6ce"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "3718e8a37d0dc2939cc350cce74bcb9c36b59f48baf4560e62804f7ca6478185"
+metafile = true
+
+[[files]]
 file = "mods/patpat.pw.toml"
 hash = "ea074d763032d4d7422da63a987b18f78a192827d9c825d8f057d1d4e6dd8655"
 metafile = true
@@ -986,6 +1026,11 @@ hash = "e520ad446364dff7dd50896108a96140f3f5598b72003dade5b17308fa9ef2a9"
 metafile = true
 
 [[files]]
+file = "mods/stormies-spiders.pw.toml"
+hash = "9be9e5eda9f6e34b4732edbfcfbd372f8a84f39cad11701a92fa7510c2d83ac8"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "8fffbaea812abaf63eef0b1bee642745791a49b54c8689bf3cd62cd29b2b7f81"
 metafile = true
@@ -1043,6 +1088,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "61387d427f7c5bfd71df275f731384b70ae12f6b1e520ee9e232ae8c175d42bd"
+metafile = true
+
+[[files]]
+file = "mods/wither-skeleton-tweaks.pw.toml"
+hash = "1e64fe8b0e6b3f7099ed41c1bbe1ec213e48e2c2c7372e130abcb59b3c6679ac"
 metafile = true
 
 [[files]]
