@@ -149,11 +149,6 @@ hash = "3ec3f227220562968dca05112e168c27e9027f43ec53bef1015c0c342b4bab19"
 metafile = true
 
 [[files]]
-file = "mods/cable-facades.pw.toml"
-hash = "10a5009c467b899832871ee920ba6051163a24e38c2caaa067d33880a8cf690a"
-metafile = true
-
-[[files]]
 file = "mods/caelus.pw.toml"
 hash = "86cf2ae835b8f3d981af2e88a4d19fdc3dc4f5aa3904c6ba30e25d77d3e9fcbb"
 metafile = true
@@ -371,11 +366,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "3529bc9c3a7b54933869be1d1d84a948d091c3d6064bbb6b17874d7c153b4dca"
-metafile = true
-
-[[files]]
-file = "mods/functional-storage.pw.toml"
-hash = "401abbfd7d9b9cdde37c8f00c604526a237f39ec79a47adbf46ff70ace12bd96"
 metafile = true
 
 [[files]]
@@ -736,11 +726,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "8fffbaea812abaf63eef0b1bee642745791a49b54c8689bf3cd62cd29b2b7f81"
-metafile = true
-
-[[files]]
-file = "mods/titanium.pw.toml"
-hash = "b4839b51f328fbd3af8addab6905f444a425ffd8d540966766bbe2947528cba8"
 metafile = true
 
 [[files]]
