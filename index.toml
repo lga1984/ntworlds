@@ -153,6 +153,11 @@ hash = "6ad424af2b8614fe9547f622a5b3d84d003eeffc6284a517aea90e377958a17a"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "4ab48faa592ae4140f8d7763585d306f6640983365bcceab2c936475911a6959"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "59beba57945e374108e22789e8fc32d2758174929ebd9bf17fc139956dc32e30"
 metafile = true
@@ -510,6 +515,16 @@ metafile = true
 [[files]]
 file = "mods/shatterbyte-lib.pw.toml"
 hash = "4f38a1932a493c7b100f13356c65bf1cc4d43e4cb3430d428202452d1d5800a0"
+metafile = true
+
+[[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "0d76b6f0f8b2cbe44931c7094c416aab1d1534c47cbee499f01c546e5e09b42b"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-link-bot-forge-fabric-spigot.pw.toml"
+hash = "8e930ee320d6c41fb31441ea9df75bc534b39e69122a926307ff05387e72fecc"
 metafile = true
 
 [[files]]
