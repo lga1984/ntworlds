@@ -28,8 +28,28 @@ hash = "a2aafa3ac24eef1aad644a9633f9f856271ed97c8da6a6855627f9eaea6e44f4"
 metafile = true
 
 [[files]]
+file = "mods/ae2-crafting-tree.pw.toml"
+hash = "50387e948be96b51d9d18d5be33c997de15d7f06f22ca8b61f694b418047d35f"
+metafile = true
+
+[[files]]
+file = "mods/ae2-import-export-card.pw.toml"
+hash = "97a392e10561c4c0ea4feca3aa8fd554c4e84322c5479a44da51c8ee10355dd6"
+metafile = true
+
+[[files]]
 file = "mods/ae2-jei-integration.pw.toml"
 hash = "491974dc6adba0e893fb755f55dfe833a1076ba49fdf9e4f92b8b9fa069ce9b5"
+metafile = true
+
+[[files]]
+file = "mods/ae2-network-analyser.pw.toml"
+hash = "23ca334019a3e9572ea1c462d5c4e732eb34f657111951cfb781cd52da59b08c"
+metafile = true
+
+[[files]]
+file = "mods/aeinfinitybooster.pw.toml"
+hash = "90cf6e0de096a6d7b3a961559dd40bb8f8c60c654bf79ccdf38e16641978e9c1"
 metafile = true
 
 [[files]]
@@ -105,6 +125,11 @@ metafile = true
 [[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "3ec3f227220562968dca05112e168c27e9027f43ec53bef1015c0c342b4bab19"
+metafile = true
+
+[[files]]
+file = "mods/cable-facades.pw.toml"
+hash = "10a5009c467b899832871ee920ba6051163a24e38c2caaa067d33880a8cf690a"
 metafile = true
 
 [[files]]
@@ -425,6 +450,11 @@ metafile = true
 [[files]]
 file = "mods/measurements.pw.toml"
 hash = "5634fdbd968dfd9fd3bce683f3474d34dc5d7753ed87574d713c15b41f88e8f9"
+metafile = true
+
+[[files]]
+file = "mods/mega-cells.pw.toml"
+hash = "e551caa3f5272461a2c64b948499434fad21854f5edc6750ed9e432174d9d33f"
 metafile = true
 
 [[files]]
