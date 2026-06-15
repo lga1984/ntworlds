@@ -23,7 +23,7 @@
 	#Enable Fox Meat?
 	enableFoxMeat = true
 	#Enable Frog Meat?
-	enableFrogMeat = true
+	enableFrogMeat = false
 	#Enable Goat Meat?
 	enableGoatMeat = true
 	#Enable Horse Meat from Horses?
@@ -74,7 +74,7 @@
 	#Enable Fox Meat Trades? (Default: True)
 	enableFoxMeatTrades = true
 	#Enable Frog Meat Trades? (Default: True)
-	enableFrogMeatTrades = true
+	enableFrogMeatTrades = false
 	#Enable Goat Meat Trades? (Default: True)
 	enableGoatMeatTrades = true
 	#Enable Horse Meat Trades? (Default: True)
