@@ -53,6 +53,11 @@ hash = "90cf6e0de096a6d7b3a961559dd40bb8f8c60c654bf79ccdf38e16641978e9c1"
 metafile = true
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "db026135a8a23b2b660ebbfa8a85d06b26249305b2612bc2fab930e252100890"
+metafile = true
+
+[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "7e03652d2003566873ab5103454f7c537471d6c2fea1c2f614507b33ef4434f7"
 metafile = true
@@ -155,6 +160,11 @@ metafile = true
 [[files]]
 file = "mods/clavis.pw.toml"
 hash = "aee01693966b5055bbb2b3eb107356b5adb5e56449cf4373fce661e4f2322b8f"
+metafile = true
+
+[[files]]
+file = "mods/clean-swing-through-grass.pw.toml"
+hash = "69968d3337983555531273604549745ad124bc95e19363f69cb4d1e41f47a980"
 metafile = true
 
 [[files]]
@@ -270,6 +280,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
+metafile = true
+
+[[files]]
+file = "mods/flickerfix.pw.toml"
+hash = "53407b14cb4227c53f9b26e8ce6e164058e349a76f444fce20130fd0d7407f65"
 metafile = true
 
 [[files]]
@@ -470,6 +485,11 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "290b13afab94146d1159d821b73c8c98f5299b4df75fd28e826f9fd409e9bb40"
+metafile = true
+
+[[files]]
+file = "mods/merequester.pw.toml"
+hash = "6893d8fcc336361503c0415ce2847e2734171d21beca181f754a7c8002e39476"
 metafile = true
 
 [[files]]
