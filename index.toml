@@ -29,6 +29,10 @@ file = "config/mekanism_unleashed-startup.toml"
 hash = "ec00efaa534072806e3b71c9862375acc1334ffa660e6b3037faa85836015281"
 
 [[files]]
+file = "config/modern_industrialization-server.toml"
+hash = "4db8390cb24ac4fed44c31aeec2c72eb94179ad19d24de94f8b535e5e27166eb"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "cac2d434e5dfcd9d3e7b647cb4b825cef56a1e9ff0e23bfd4c22eea92b9bad5a"
 
