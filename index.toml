@@ -143,6 +143,11 @@ hash = "86cf2ae835b8f3d981af2e88a4d19fdc3dc4f5aa3904c6ba30e25d77d3e9fcbb"
 metafile = true
 
 [[files]]
+file = "mods/cat-loaf.pw.toml"
+hash = "2aba24a3d2fce17a7ff9673398ed4a0bc52e200a5c46d78ecde4cdd3f62feafb"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "209446eb003bb59111833db0e0328657a9ffe7d85d6016ddf3ecfd5a2f7e13c5"
 metafile = true
@@ -528,6 +533,11 @@ hash = "0ac2ef683d340a421aa6d35a5491e289ef8e5720bbb5e877a81c95ae496026a3"
 metafile = true
 
 [[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "90ad1eb32c492fd76dc362f8b017e8ca848fee063cafb3ccac30d32f09cbdbaa"
+metafile = true
+
+[[files]]
 file = "mods/openblocks-elevator.pw.toml"
 hash = "bc3e79ec7c82f0e4b752ba7f41709e1e87e25169cf96b7c38dafefeaf876a80f"
 metafile = true
@@ -540,6 +550,11 @@ metafile = true
 [[files]]
 file = "mods/oritech.pw.toml"
 hash = "79f1bf57f51a4b58fe3c4dde58d1f2768dc2246fe2ffd1dd3942a7ee421f1557"
+metafile = true
+
+[[files]]
+file = "mods/patpat.pw.toml"
+hash = "ea074d763032d4d7422da63a987b18f78a192827d9c825d8f057d1d4e6dd8655"
 metafile = true
 
 [[files]]
