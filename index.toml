@@ -181,6 +181,11 @@ hash = "69968d3337983555531273604549745ad124bc95e19363f69cb4d1e41f47a980"
 metafile = true
 
 [[files]]
+file = "mods/client-tweaks.pw.toml"
+hash = "9a01b869005f93b0c255d5506f601ea65ff4dac49b054e8e25d7cc9d0a67efac"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
 metafile = true
