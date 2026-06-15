@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Advancedperipherals/world.toml"
+hash = "d486fb0f8fcff4f5f8fdf9fecd145ca664f342a3f0510cf0944afdf0d2a8ec0c"
+
+[[files]]
 file = "config/Mekanism/common.toml"
 hash = "26670be76c4d4ef207d746f2cf5d6c589b2b219ecb71f763bb697692c99fb338"
 
