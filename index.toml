@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/dropthemeat-common.toml"
+hash = "5b51eb22c89abfa5ebebad9e469875f42a8b0842b71e455f219434feed2438df"
+
+[[files]]
 file = "config/lmft.json"
 hash = "7564aee7b7bf3477b71532d3fda3223c5455182d6b516850887184c4412e8c3d"
 
@@ -10,7 +14,7 @@ hash = "cac2d434e5dfcd9d3e7b647cb4b825cef56a1e9ff0e23bfd4c22eea92b9bad5a"
 
 [[files]]
 file = "config/utilitarian-common.toml"
-hash = "950b23785045b03e244f5024196d1d39f6fa9abbafc62d2b863bb89373358dc0"
+hash = "461131e614c8d8d7dbf062a5c76db67116439acaca2c15e19b9cc33e7d67483c"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -140,6 +144,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "86cf2ae835b8f3d981af2e88a4d19fdc3dc4f5aa3904c6ba30e25d77d3e9fcbb"
+metafile = true
+
+[[files]]
+file = "mods/cat-loaf.pw.toml"
+hash = "2aba24a3d2fce17a7ff9673398ed4a0bc52e200a5c46d78ecde4cdd3f62feafb"
 metafile = true
 
 [[files]]
@@ -540,6 +549,11 @@ metafile = true
 [[files]]
 file = "mods/oritech.pw.toml"
 hash = "79f1bf57f51a4b58fe3c4dde58d1f2768dc2246fe2ffd1dd3942a7ee421f1557"
+metafile = true
+
+[[files]]
+file = "mods/patpat.pw.toml"
+hash = "ea074d763032d4d7422da63a987b18f78a192827d9c825d8f057d1d4e6dd8655"
 metafile = true
 
 [[files]]
