@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Mekanism/common.toml"
+hash = "26670be76c4d4ef207d746f2cf5d6c589b2b219ecb71f763bb697692c99fb338"
+
+[[files]]
 file = "config/dropthemeat-common.toml"
 hash = "5b51eb22c89abfa5ebebad9e469875f42a8b0842b71e455f219434feed2438df"
 
@@ -171,6 +175,11 @@ hash = "a5a04d39791ce824b7b0b78fd1fa4f08d1584c77c9c52edcb7210439f8917e98"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "9cbe070b269ec57ecb6f69c2130e8839b06b5ba462df4bce81a41d087bc74ec8"
+metafile = true
+
+[[files]]
 file = "mods/clavis.pw.toml"
 hash = "aee01693966b5055bbb2b3eb107356b5adb5e56449cf4373fce661e4f2322b8f"
 metafile = true
@@ -183,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "9a01b869005f93b0c255d5506f601ea65ff4dac49b054e8e25d7cc9d0a67efac"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
 
 [[files]]
@@ -543,6 +557,11 @@ metafile = true
 [[files]]
 file = "mods/no-mans-land.pw.toml"
 hash = "0ac2ef683d340a421aa6d35a5491e289ef8e5720bbb5e877a81c95ae496026a3"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "0337972b99ef4338ed85223b88b07245c30f627d5a40d1c0dec7572ea3d6a601"
 metafile = true
 
 [[files]]
