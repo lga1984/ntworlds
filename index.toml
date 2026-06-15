@@ -21,10 +21,6 @@ file = "config/modernfix-mixins.properties"
 hash = "cac2d434e5dfcd9d3e7b647cb4b825cef56a1e9ff0e23bfd4c22eea92b9bad5a"
 
 [[files]]
-file = "config/utilitarian-common.toml"
-hash = "461131e614c8d8d7dbf062a5c76db67116439acaca2c15e19b9cc33e7d67483c"
-
-[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "0c31f109b6c4dca94a153fbdd827bbd5f96149fd5c7863ba0ba41fcab801afe0"
 metafile = true
