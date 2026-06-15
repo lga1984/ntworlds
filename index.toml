@@ -404,6 +404,11 @@ hash = "9aafdd83668c1b903caf0245b0bf2de3bb743befaa78d39e74a95c9933d624ac"
 metafile = true
 
 [[files]]
+file = "mods/gravitational-modulating-additional-unit.pw.toml"
+hash = "a1c7bbaa1a007909fe408ccd54a069e7c8783d01359c9f0a5dc6288056d1e9c3"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
 hash = "10c6e9563ce848472a6e817c05f5801da01a0d941bee2bf9ba7a0e848cf0a334"
 metafile = true
@@ -606,6 +611,11 @@ metafile = true
 [[files]]
 file = "mods/mekanism-tools.pw.toml"
 hash = "2d6a6b9cef775c2baff586138fd0833595000295b645cc9813f84833c38cb415"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-unleashed.pw.toml"
+hash = "ed7741d8542b29cfb3f2dc54e342d809c9fb1a9c4f8e0ce4a5f8cf95db86884e"
 metafile = true
 
 [[files]]
