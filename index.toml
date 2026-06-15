@@ -34,6 +34,11 @@ hash = "0c31f109b6c4dca94a153fbdd827bbd5f96149fd5c7863ba0ba41fcab801afe0"
 metafile = true
 
 [[files]]
+file = "mods/advanced-loot-info.pw.toml"
+hash = "e4a27a08d7affa86f9c94f39e814ac16745e6a8ab3f70c713d36eb0d861a63af"
+metafile = true
+
+[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "95260471eefa73e63432e990724810d0f6e9fa5e5fca1cbc4dd8124263330c8a"
 metafile = true
@@ -136,6 +141,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "a0f52f47c27d6ccdbee89735e459ff955ba09cdf499ef42bc901f8426be75253"
+metafile = true
+
+[[files]]
+file = "mods/better-climbing.pw.toml"
+hash = "ca2935cb7ebb54a44902356511930048e93198dc770175fc34d7c9644a19aa1c"
 metafile = true
 
 [[files]]
@@ -294,6 +304,11 @@ hash = "82e12d4fe6767264c396cab79de5b7165d022c8ab851765ef4e38d3a3be20232"
 metafile = true
 
 [[files]]
+file = "mods/eval.pw.toml"
+hash = "b6b376b656c223e8e533732eef4dd3346ec3e5f45b5d464603f11628a561a54d"
+metafile = true
+
+[[files]]
 file = "mods/ex-pattern-provider.pw.toml"
 hash = "f8bff302408f68c7e3dc004cef9e9f63e9cc281defe174fcefd623d5b99f86cf"
 metafile = true
@@ -424,6 +439,11 @@ hash = "e53136ead606a4431a7d9f4e62337363cf8ccd0da122443c00d0ba2f375d364b"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "89420f657cec1038646f75531ae388e92d27c51c84b1f121e935ae5aecf995be"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
 metafile = true
@@ -434,8 +454,28 @@ hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-archaeology.pw.toml"
+hash = "9b8fefa5ff234c5fce2b3a3ef0ba230997e09718874f9ce4a6ce471115f2ca95"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-mekanism-multiblocks.pw.toml"
+hash = "0b5b64a0aa4086ddd2663002099ea79f01a19db306bf6601e999125d3429c0ec"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "f68d6d20d2f1ae3edb429736a46e63fb0a7c3828d876b927431697dd289ab138"
+metafile = true
+
+[[files]]
 file = "mods/just-zoom.pw.toml"
 hash = "9cf35d5b0b7ab064ea54e393af17304e5264ee6a59f5224fb5b79ad3c45ea22f"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "1d81880c101c44c858e695066764f2b94a0da0cf00a8fbff432f7ea45f31cd27"
 metafile = true
 
 [[files]]
@@ -451,6 +491,11 @@ metafile = true
 [[files]]
 file = "mods/leaderboards.pw.toml"
 hash = "36556dec4313e74c6f87c027a958ed63d9f106b9554c6ddf2638d51e6c347d16"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "3b41e84ca0e5bd93f05eddcdff3f47b38e8bb9863b9bbb4bf05991098487a8a5"
 metafile = true
 
 [[files]]
@@ -534,6 +579,16 @@ hash = "e551caa3f5272461a2c64b948499434fad21854f5edc6750ed9e432174d9d33f"
 metafile = true
 
 [[files]]
+file = "mods/mekagenjei-mekanism-generator-addon.pw.toml"
+hash = "1835686def20fd45755cd662c56e970e9014d21c754e86aada279262566ea036"
+metafile = true
+
+[[files]]
+file = "mods/mekajadeupgrades.pw.toml"
+hash = "20ba1021bb3047a3c56ffa39b40c97638211934b3fb129b9ee9b66e99387822d"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "d270c535152d5388823cbd3913a0f14b088ef14f91f9eec61444f1102d19bdc1"
 metafile = true
@@ -591,6 +646,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "0337972b99ef4338ed85223b88b07245c30f627d5a40d1c0dec7572ea3d6a601"
+metafile = true
+
+[[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "02c4f941c76c49cbaeb17e549dc0e37562ff5cbd6ca51fec9d8da3bb73538507"
 metafile = true
 
 [[files]]
@@ -694,6 +754,11 @@ hash = "4f38a1932a493c7b100f13356c65bf1cc4d43e4cb3430d428202452d1d5800a0"
 metafile = true
 
 [[files]]
+file = "mods/showcase-item.pw.toml"
+hash = "02b3e986422df0ae3ee769ae445ddb1faa53e4314228f6af2eba34fc1fea07ff"
+metafile = true
+
+[[files]]
 file = "mods/simple-backups.pw.toml"
 hash = "0d76b6f0f8b2cbe44931c7094c416aab1d1534c47cbee499f01c546e5e09b42b"
 metafile = true
@@ -751,6 +816,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "8fffbaea812abaf63eef0b1bee642745791a49b54c8689bf3cd62cd29b2b7f81"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "4acd0daed52188d2ccd8277953e697113aebf89c1bd6b1049a1e859f8eb26ce3"
 metafile = true
 
 [[files]]
