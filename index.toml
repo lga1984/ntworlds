@@ -42,7 +42,7 @@ hash = "4db8390cb24ac4fed44c31aeec2c72eb94179ad19d24de94f8b535e5e27166eb"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "cac2d434e5dfcd9d3e7b647cb4b825cef56a1e9ff0e23bfd4c22eea92b9bad5a"
+hash = "701dfe22f272e6ae70be9063ce76a34fdbc3a7a8d5bcfea26b0e59328fc862ec"
 
 [[files]]
 file = "config/securitycraft-client.toml"
@@ -636,11 +636,6 @@ metafile = true
 [[files]]
 file = "mods/just-dire-things.pw.toml"
 hash = "fd6d935a0145a7992c3ba365c66f655c65587c9c812db55adab264144e11ce3f"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-archaeology.pw.toml"
-hash = "9b8fefa5ff234c5fce2b3a3ef0ba230997e09718874f9ce4a6ce471115f2ca95"
 metafile = true
 
 [[files]]
