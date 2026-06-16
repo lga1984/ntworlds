@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/biolith.pw.toml"
-hash = "f79d87a72026b5aef024b44cf5eedd9edb568a19f81403d20681eeb3364c3647"
+hash = "cc68949c02bcb1ea4ad83d7a8f9c7b039b7ccb6af8ac97a8b9ea62efaac7a484"
 metafile = true
 
 [[files]]
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "209446eb003bb59111833db0e0328657a9ffe7d85d6016ddf3ecfd5a2f7e13c5"
+hash = "14f862ceab11545e0a446df8c91c95ae7434ca4975db1357ad2001b6ec321e45"
 metafile = true
 
 [[files]]
@@ -821,7 +821,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "7cf42d1cf3f7e27121d6c8fe1a5b66f7ae20b282e52a29ec63b1d43f88267d1c"
+hash = "a58c1322f0d21a88b3a42627374f045fe34a0385ef6630ec516b77d73438accc"
 metafile = true
 
 [[files]]
@@ -976,7 +976,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "20003186772ec6d7a2968b51d67f7c107074bc895721c0f077dca8d0130160c0"
+hash = "c6c1033dc56030eb7154be4557fc6495a5d2f0a303593fa420e81a0ee9f87ebf"
 metafile = true
 
 [[files]]
@@ -1116,7 +1116,7 @@ metafile = true
 
 [[files]]
 file = "mods/twemoji.pw.toml"
-hash = "693fc53d27c9267ae83b3eca2b3f0e5cb848ea0a3e0c953ecec7013d3aa0f107"
+hash = "901fd3c2dfa55237ee702dbcb58b3cf4d81c1984822c30ba90d834f61aab6293"
 metafile = true
 
 [[files]]
