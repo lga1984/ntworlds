@@ -833,11 +833,6 @@ hash = "a58c1322f0d21a88b3a42627374f045fe34a0385ef6630ec516b77d73438accc"
 metafile = true
 
 [[files]]
-file = "mods/modular-routers.pw.toml"
-hash = "e252f6993baf0dd2f053ef0e7c536bd8f914bbb409dbd75e70e10096a66472c9"
-metafile = true
-
-[[files]]
 file = "mods/more-dragon-eggs.pw.toml"
 hash = "6526d0de1fe5acd6a4fa0135b8b7bcd7fc09bd481f85e7f8221db633ff58e676"
 metafile = true
