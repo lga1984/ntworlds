@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "automodpack/automodpack-server.json"
+hash = "b6e217580199911a041b2377fd6259f3e8d5469dd6cf15b8de23acedb12b5237"
+
+[[files]]
 file = "config/Advancedperipherals/world.toml"
 hash = "d486fb0f8fcff4f5f8fdf9fecd145ca664f342a3f0510cf0944afdf0d2a8ec0c"
 
