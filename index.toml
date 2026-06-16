@@ -993,6 +993,11 @@ hash = "c6c1033dc56030eb7154be4557fc6495a5d2f0a303593fa420e81a0ee9f87ebf"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-viewer.pw.toml"
+hash = "f7ae1676a74c3c712d68aa8e54448883cd78cf348abe86c5f7343dae23fc2a91"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "b210b54498abff891f524a0ce32b7b81bfc88043604065bd4ece9e71c36427f4"
 metafile = true
