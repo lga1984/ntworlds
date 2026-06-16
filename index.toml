@@ -188,6 +188,11 @@ hash = "682fd4aef38fca5a2dee7cb858d6f64f81637b25f3f251e70a2b04b1a70aea5c"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "a445471ac6843bcf9fb76eabb4357de0357dfa7782be536a7827a26764fe45c1"
+metafile = true
+
+[[files]]
 file = "mods/automodpack.pw.toml"
 hash = "6e728883d4330605f2c6c11409f80ee8fd3c6563778c6f7ba73f9c63470bc938"
 metafile = true
