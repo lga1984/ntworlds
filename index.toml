@@ -58,11 +58,6 @@ hash = "0c31f109b6c4dca94a153fbdd827bbd5f96149fd5c7863ba0ba41fcab801afe0"
 metafile = true
 
 [[files]]
-file = "mods/actually-additions.pw.toml"
-hash = "34d1cc38be069139fbdc034100876673b8bfcc951d707099c44ec05398de1ecc"
-metafile = true
-
-[[files]]
 file = "mods/advanced-loot-info.pw.toml"
 hash = "e4a27a08d7affa86f9c94f39e814ac16745e6a8ab3f70c713d36eb0d861a63af"
 metafile = true
@@ -95,11 +90,6 @@ metafile = true
 [[files]]
 file = "mods/ae2-network-analyser.pw.toml"
 hash = "23ca334019a3e9572ea1c462d5c4e732eb34f657111951cfb781cd52da59b08c"
-metafile = true
-
-[[files]]
-file = "mods/ae2-pattern-restocker.pw.toml"
-hash = "20d4021a7e1da0ee5b76130fbd8f1725539f93d15c035c6fd7b31f95c54c34c7"
 metafile = true
 
 [[files]]
@@ -175,11 +165,6 @@ metafile = true
 [[files]]
 file = "mods/applied-flux.pw.toml"
 hash = "79145ab2f9345a30867eb8d910bb7ec9f78ff62a721e336a37c19230f95e6a72"
-metafile = true
-
-[[files]]
-file = "mods/applied-history.pw.toml"
-hash = "83b49180d84674f939cea6ded7b19ba141eddcedc7dee8d26eb9636f763f695f"
 metafile = true
 
 [[files]]
@@ -320,11 +305,6 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "e1652216456cb6c5026b3e6b48d98b1509457eb6d974e18002af4ec3bf040ffa"
-metafile = true
-
-[[files]]
-file = "mods/construction-sticks.pw.toml"
-hash = "893aad9df7e8e031d36ac74f9129f3cb3ad27f74db3bd4a71d32a6058f933ff6"
 metafile = true
 
 [[files]]
@@ -603,11 +583,6 @@ hash = "0a340d62ec786133c1cc6f40d86655a77055461ad65390a8679be294279d6f94"
 metafile = true
 
 [[files]]
-file = "mods/industrial-foregoing.pw.toml"
-hash = "c307c6f682a2ddff8181191b1070bae08c11482eccef8ea3d0428ea63ac08d6e"
-metafile = true
-
-[[files]]
 file = "mods/industrialization-overdrive.pw.toml"
 hash = "83d0e8025244742927812d318d6573178f5e3b2ea1d5fe7f753825decf193efc"
 metafile = true
@@ -660,11 +635,6 @@ metafile = true
 [[files]]
 file = "mods/jumpy-boats.pw.toml"
 hash = "cfbd559d71ee11e13fc927fe82c75c37e2c198b29fb03825fec737882dead9a2"
-metafile = true
-
-[[files]]
-file = "mods/just-dire-things.pw.toml"
-hash = "fd6d935a0145a7992c3ba365c66f655c65587c9c812db55adab264144e11ce3f"
 metafile = true
 
 [[files]]
@@ -953,18 +923,8 @@ hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
 metafile = true
 
 [[files]]
-file = "mods/platform.pw.toml"
-hash = "cf4f9fdb9d7cf582d1068fae6ca9bf7fe6d3f0f1dbb031627f339f73477d325c"
-metafile = true
-
-[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
-metafile = true
-
-[[files]]
-file = "mods/pneumaticcraft-repressurized.pw.toml"
-hash = "95a6a89925311566a6f8f2f4f817f266c1bcc4bea61b2cb5a37801c7c0804aa4"
 metafile = true
 
 [[files]]
@@ -975,11 +935,6 @@ metafile = true
 [[files]]
 file = "mods/polymorphic-energistics.pw.toml"
 hash = "330eae6dd751b70d4761f5fb556bc476f693549f3eb42ff7f441e1cd5bfe3cfb"
-metafile = true
-
-[[files]]
-file = "mods/powah-rearchitected.pw.toml"
-hash = "a6f8726db6be3d6efc3a3561166db9d30d48dc2feef5e5d7e0ecbff86b3a2f82"
 metafile = true
 
 [[files]]
@@ -1153,11 +1108,6 @@ hash = "342d9216ee6f19851584f0ab9fdf905c235528babed71d0c78131eb72402ddec"
 metafile = true
 
 [[files]]
-file = "mods/titanium.pw.toml"
-hash = "b4839b51f328fbd3af8addab6905f444a425ffd8d540966766bbe2947528cba8"
-metafile = true
-
-[[files]]
 file = "mods/toms-peripherals.pw.toml"
 hash = "5cfe1c2e3765904af94d02c403a6ddce1f59354adb25aa7267af681ead5798b1"
 metafile = true
@@ -1180,16 +1130,6 @@ metafile = true
 [[files]]
 file = "mods/utilitarian.pw.toml"
 hash = "273085ae95f4c7f12c96b54a25c385220b88172a1ccf85ae95c5765b049c06bc"
-metafile = true
-
-[[files]]
-file = "mods/vanillabackport.pw.toml"
-hash = "2ed8143d74813a492685aa18210835862a6bd70789e6a0301ceb270174b51460"
-metafile = true
-
-[[files]]
-file = "mods/vb-compat.pw.toml"
-hash = "ea963bd48004e20249381ba53582254bdcffa18eac2c99ed9b23d9809f0b4598"
 metafile = true
 
 [[files]]
