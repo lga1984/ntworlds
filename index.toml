@@ -350,6 +350,11 @@ hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
+file = "mods/deimos-fabric-forge-neoforge.pw.toml"
+hash = "ff4171ef297c7296a7c878d5c79806848d083f37e6a39da3677b32a20b598476"
+metafile = true
+
+[[files]]
 file = "mods/drop-the-meat.pw.toml"
 hash = "eee455f8d8cb3640af28aa0eb5795315f6b56889842b0e1be48bc090175231a1"
 metafile = true
@@ -382,6 +387,11 @@ metafile = true
 [[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "db652d3e04c7b6d861f47b78a346f53ac59aae153ab0fa442b887efa4a5d1ed9"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "1c8a74da2535df7fbc3d3c2492afcdf091b1756878d427dbfae9dbc6830c8f8d"
 metafile = true
 
 [[files]]
@@ -445,6 +455,11 @@ hash = "efc2c4fe9e2cc169aff61a6b7a41ea9bc7a22a90aadf0776b22de647ddf3cef6"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "124fa36625bf2f382f6a993861cce883e775c6b79263337ee38d58b12e083491"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "4f7c443c70a28284bfb40e613c835167c9c71f2db257714275041f16e280b6d9"
 metafile = true
@@ -462,6 +477,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
+metafile = true
+
+[[files]]
+file = "mods/fire-arrows-start-fire.pw.toml"
+hash = "c2bb692bd6e90410f1011aaa275173ba7894eccdee82fda6c6f578a0094a7ddc"
 metafile = true
 
 [[files]]
@@ -810,6 +830,11 @@ hash = "6526d0de1fe5acd6a4fa0135b8b7bcd7fc09bd481f85e7f8221db633ff58e676"
 metafile = true
 
 [[files]]
+file = "mods/more-overlays-updated.pw.toml"
+hash = "91bef37cefad981c5c6752a3e62f6244be932efce77e4027dd3075accd2dd8ac"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "057044d2179d9e10b616ef8fa4cc870ad350842fc5c325ce0b3766160852cd13"
 metafile = true
@@ -857,6 +882,11 @@ metafile = true
 [[files]]
 file = "mods/overloaded-armor-bar.pw.toml"
 hash = "e552cd6521dd695465502430f1001cf98b87bc534c72b27a98d16e2c3a13b6ce"
+metafile = true
+
+[[files]]
+file = "mods/paragliders.pw.toml"
+hash = "abfaa1603e21bbcd94e8464c460ccb29a465f8b0ced64abdc661c79c03bab395"
 metafile = true
 
 [[files]]
@@ -1040,6 +1070,11 @@ hash = "e520ad446364dff7dd50896108a96140f3f5598b72003dade5b17308fa9ef2a9"
 metafile = true
 
 [[files]]
+file = "mods/steam-n-rails-neoforge.pw.toml"
+hash = "60d6921ec70b1c098fcfbf0254022b7a9a3a859635e6857fd6dc64c12381aeac"
+metafile = true
+
+[[files]]
 file = "mods/stormies-spiders.pw.toml"
 hash = "9be9e5eda9f6e34b4732edbfcfbd372f8a84f39cad11701a92fa7510c2d83ac8"
 metafile = true
@@ -1092,6 +1127,11 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "2ed8143d74813a492685aa18210835862a6bd70789e6a0301ceb270174b51460"
+metafile = true
+
+[[files]]
+file = "mods/vb-compat.pw.toml"
+hash = "ea963bd48004e20249381ba53582254bdcffa18eac2c99ed9b23d9809f0b4598"
 metafile = true
 
 [[files]]
