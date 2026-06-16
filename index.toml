@@ -213,6 +213,11 @@ hash = "3595ba816c9ef014350d0072b90715d99cda633c0b3c8aee7a64ce3402ade5de"
 metafile = true
 
 [[files]]
+file = "mods/baubley-heart-canisters.pw.toml"
+hash = "8a84576db49536bf3192bf863bc8a905e44325dcbe3fb4cf7e68ff9776a03e4d"
+metafile = true
+
+[[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "ca2935cb7ebb54a44902356511930048e93198dc770175fc34d7c9644a19aa1c"
 metafile = true
@@ -230,6 +235,11 @@ metafile = true
 [[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "3ec3f227220562968dca05112e168c27e9027f43ec53bef1015c0c342b4bab19"
+metafile = true
+
+[[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "88908286eebea979713b5626891f634317fcc4c5a5bd4ec0c9444a33863a4518"
 metafile = true
 
 [[files]]
@@ -320,6 +330,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "616036c38fafbcaf00c0720d947ec39f571d885a014f0c81b5eeeb4193784e0e"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "6085304a0b6cb891c998be35caef79ddef5c043e6119a3d951a77b37eb34bd86"
 metafile = true
 
 [[files]]
@@ -473,6 +488,11 @@ hash = "efc2c4fe9e2cc169aff61a6b7a41ea9bc7a22a90aadf0776b22de647ddf3cef6"
 metafile = true
 
 [[files]]
+file = "mods/farming-for-blockheads.pw.toml"
+hash = "72297d1790d36f6d871a28c66670fa127ea8760b6b030e70bb8b9e34ba1dbe0c"
+metafile = true
+
+[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "124fa36625bf2f382f6a993861cce883e775c6b79263337ee38d58b12e083491"
 metafile = true
@@ -535,6 +555,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "3529bc9c3a7b54933869be1d1d84a948d091c3d6064bbb6b17874d7c153b4dca"
+metafile = true
+
+[[files]]
+file = "mods/gag.pw.toml"
+hash = "5959363e04f33dd25c7cbf8488012a3e019a865f9f8ec5faadbf036bc2a2fca5"
 metafile = true
 
 [[files]]
@@ -838,6 +863,11 @@ hash = "a58c1322f0d21a88b3a42627374f045fe34a0385ef6630ec516b77d73438accc"
 metafile = true
 
 [[files]]
+file = "mods/modular-routers.pw.toml"
+hash = "e252f6993baf0dd2f053ef0e7c536bd8f914bbb409dbd75e70e10096a66472c9"
+metafile = true
+
+[[files]]
 file = "mods/more-dragon-eggs.pw.toml"
 hash = "6526d0de1fe5acd6a4fa0135b8b7bcd7fc09bd481f85e7f8221db633ff58e676"
 metafile = true
@@ -948,6 +978,11 @@ hash = "330eae6dd751b70d4761f5fb556bc476f693549f3eb42ff7f441e1cd5bfe3cfb"
 metafile = true
 
 [[files]]
+file = "mods/powah-rearchitected.pw.toml"
+hash = "a6f8726db6be3d6efc3a3561166db9d30d48dc2feef5e5d7e0ecbff86b3a2f82"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
@@ -965,6 +1000,11 @@ metafile = true
 [[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "a63a24d0d6357d1ca0f72dc60351ff2c18d708be6ee1f6f8f9dcfd5f25983ceb"
+metafile = true
+
+[[files]]
+file = "mods/reliquary-reincarnations.pw.toml"
+hash = "488c46eae763ca8e437394c21e6b45bda60886a53a7e0f682ad27a297d97248f"
 metafile = true
 
 [[files]]
