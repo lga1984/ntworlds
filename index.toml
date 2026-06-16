@@ -349,6 +349,11 @@ hash = "e55818e04fcaeb7bc0edce1cec106bc88cfd56d2bdbcc228fb374f797ef598cc"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "51851da1eec44c74801f9b00525c119aa136be6b4c4ba2b5bd8b6d0dcf4791df"
+metafile = true
+
+[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "09f8e2af6cb0a5151a44390389ec62012296ec069dd21eb418079e17b48c2f18"
 metafile = true
@@ -1141,6 +1146,26 @@ metafile = true
 [[files]]
 file = "mods/vb-compat.pw.toml"
 hash = "ea963bd48004e20249381ba53582254bdcffa18eac2c99ed9b23d9809f0b4598"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+hash = "5d5b144eb42a6a6d505c720a3f04c6b84be39165ccf08c3f1a01dabf0e75b2ac"
+metafile = true
+
+[[files]]
+file = "mods/watermedia-yt-plugin.pw.toml"
+hash = "ae4c442f0049d0af3abbe851d1b51126c43e614cb97636c9958036b910b619c9"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "0528731743be7df4ba5a8952264861920f90475ed333f914fddea75473cd6012"
+metafile = true
+
+[[files]]
+file = "mods/watervision.pw.toml"
+hash = "022c8bb3430adc4826aa93ec69a378fc6b200aa9a6b6cde1ca499aeaed441e5d"
 metafile = true
 
 [[files]]
