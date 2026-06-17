@@ -263,6 +263,11 @@ hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
 metafile = true
 
 [[files]]
+file = "mods/choicetheorems-overhauled-village.pw.toml"
+hash = "000217304bbb5971cb9dde9081fcb5ea92cc7edcae83321effdcd92b36e2f490"
+metafile = true
+
+[[files]]
 file = "mods/chroma-carvings.pw.toml"
 hash = "b613fb7592db20e20b1a083d9fd30cfbdf88a370d5fcfd2cc2de6b7621cbeeb1"
 metafile = true
@@ -758,6 +763,11 @@ hash = "3b41e84ca0e5bd93f05eddcdff3f47b38e8bb9863b9bbb4bf05991098487a8a5"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "a5171f661eb50b84152c265c1458698394b484225c75db459016738f761beb08"
+metafile = true
+
+[[files]]
 file = "mods/lmft.pw.toml"
 hash = "1b78273918bdbfe66d38f35b6ec2fbaa7e862fb9dca67cc99a725df768365e96"
 metafile = true
@@ -908,6 +918,16 @@ hash = "a58c1322f0d21a88b3a42627374f045fe34a0385ef6630ec516b77d73438accc"
 metafile = true
 
 [[files]]
+file = "mods/moogs-end-structures.pw.toml"
+hash = "d320f7c6591bce3b9e6a808db01e57a1c337422209ee53ffa1d6d84383c24bde"
+metafile = true
+
+[[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "dca980571971a41d3db163d28c76e72d2a6452bd0f02c736ea3da90bf80e4a11"
+metafile = true
+
+[[files]]
 file = "mods/more-dragon-eggs.pw.toml"
 hash = "6526d0de1fe5acd6a4fa0135b8b7bcd7fc09bd481f85e7f8221db633ff58e676"
 metafile = true
@@ -920,6 +940,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "057044d2179d9e10b616ef8fa4cc870ad350842fc5c325ce0b3766160852cd13"
+metafile = true
+
+[[files]]
+file = "mods/mss-moogs-soaring-structures.pw.toml"
+hash = "45a1b71094606e09e160e39671582b00056790d79015b6d5bd047d2b3d0dc9a7"
 metafile = true
 
 [[files]]
@@ -1208,6 +1233,11 @@ hash = "901fd3c2dfa55237ee702dbcb58b3cf4d81c1984822c30ba90d834f61aab6293"
 metafile = true
 
 [[files]]
+file = "mods/underground-bunkers.pw.toml"
+hash = "72a76e8337198b32ba0941ce4b5d03dc29b4080ac7708e226c74b3fc9cd88d8b"
+metafile = true
+
+[[files]]
 file = "mods/utilitarian.pw.toml"
 hash = "273085ae95f4c7f12c96b54a25c385220b88172a1ccf85ae95c5765b049c06bc"
 metafile = true
@@ -1270,4 +1300,44 @@ metafile = true
 [[files]]
 file = "mods/yukamis-sophisticated-backpack-tab.pw.toml"
 hash = "d27f61cc272bdacc9c1142a22e3da27937a3338410584e0f2b048285b4fd391f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api-neoforge.pw.toml"
+hash = "80f8b077b7fc1adfd2f895d79d004e09099b6ed5eaf9e8b0c7cd42759d8c18dd"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples-neoforge.pw.toml"
+hash = "9d850f339f573961ceffa688f221accedb8c0c36746a5377df872a110f39e3e5"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples-neoforge.pw.toml"
+hash = "6dc8b6b822d296d026dc2685f57da95746e57f30f501640801546ba7a259b520"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-neoforge.pw.toml"
+hash = "c2053af07ae41f932040eaa078a7d22438cbb0bf16ebcf0926740dd8777f9498"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds-neoforge.pw.toml"
+hash = "0a47325379d60e0886ab96a8c247ae8820bcb1a4a8ae53d855a50a99f6cab4ca"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts-neoforge.pw.toml"
+hash = "537a140266ce5c290490e4712935590ff40deeaa0af68f54fcf56157a82eb953"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges-neoforge.pw.toml"
+hash = "400918237e259461717e6d85ad9e648054e901b372e1cfc180622e276f3df8c7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras-neoforge.pw.toml"
+hash = "15c30a404bc24e1806a780ae83e5a7364d04fac86e2ec448a1a44342935ef0da"
 metafile = true
