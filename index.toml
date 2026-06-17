@@ -58,11 +58,6 @@ hash = "0c31f109b6c4dca94a153fbdd827bbd5f96149fd5c7863ba0ba41fcab801afe0"
 metafile = true
 
 [[files]]
-file = "mods/aces-spell-utils.pw.toml"
-hash = "cd38c6ff0a1cd02fd2ed08d1238313cb67b8edb4fc933577ccd4297be6c4663f"
-metafile = true
-
-[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "95260471eefa73e63432e990724810d0f6e9fa5e5fca1cbc4dd8124263330c8a"
 metafile = true
@@ -198,11 +193,6 @@ hash = "6e728883d4330605f2c6c11409f80ee8fd3c6563778c6f7ba73f9c63470bc938"
 metafile = true
 
 [[files]]
-file = "mods/azurelib.pw.toml"
-hash = "c6bfded13163365cb14a56c707a91271dec8b6317708a2c4cca4564b71693399"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "3595ba816c9ef014350d0072b90715d99cda633c0b3c8aee7a64ce3402ade5de"
 metafile = true
@@ -250,11 +240,6 @@ metafile = true
 [[files]]
 file = "mods/cat-loaf.pw.toml"
 hash = "2aba24a3d2fce17a7ff9673398ed4a0bc52e200a5c46d78ecde4cdd3f62feafb"
-metafile = true
-
-[[files]]
-file = "mods/cataclysm-spellbooks.pw.toml"
-hash = "d297223abd52c7942e55d0e9b44b0ef5dd3dae908f58bd3ca47696a08cac8296"
 metafile = true
 
 [[files]]
@@ -668,16 +653,6 @@ hash = "a1c7bbaa1a007909fe408ccd54a069e7c8783d01359c9f0a5dc6288056d1e9c3"
 metafile = true
 
 [[files]]
-file = "mods/gtbcs-spellbooks.pw.toml"
-hash = "3074becb4af3c5775b077319fa98de738ea77eccfff89c89a9eff7df34a7aa8d"
-metafile = true
-
-[[files]]
-file = "mods/gtbcs-spelllib.pw.toml"
-hash = "c2477f9bb82634af45d70a97e6fde7d31f1aa0d2e1a07210ec425243d350b6ba"
-metafile = true
-
-[[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "6424aa354655682483ec2a0db6b6f24b1f09b349d93d9e6bfeeb73733fdfa759"
 metafile = true
@@ -690,16 +665,6 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "d573695d37296209dc06495d359c4b283ffa6640bcfe8aa9c9b59eb420891788"
-metafile = true
-
-[[files]]
-file = "mods/hazen-n-stuff.pw.toml"
-hash = "7fe83c4735ade8925aa3817257361010badc281697411b5b68caa808c3ae33ac"
-metafile = true
-
-[[files]]
-file = "mods/hazentouvelib.pw.toml"
-hash = "7c4fc33118753a63c89491651f523e969823d5273d83cb927d11c01efd743c5b"
 metafile = true
 
 [[files]]
@@ -1363,11 +1328,6 @@ hash = "61387d427f7c5bfd71df275f731384b70ae12f6b1e520ee9e232ae8c175d42bd"
 metafile = true
 
 [[files]]
-file = "mods/when-dungeons-arise.pw.toml"
-hash = "666de5e89e4537b9b758d642952efbd67c25d9d3a88a6ebd481962508851d001"
-metafile = true
-
-[[files]]
 file = "mods/wither-skeleton-tweaks.pw.toml"
 hash = "1e64fe8b0e6b3f7099ed41c1bbe1ec213e48e2c2c7372e130abcb59b3c6679ac"
 metafile = true
@@ -1390,59 +1350,4 @@ metafile = true
 [[files]]
 file = "mods/yukamis-sophisticated-backpack-tab.pw.toml"
 hash = "d27f61cc272bdacc9c1142a22e3da27937a3338410584e0f2b048285b4fd391f"
-metafile = true
-
-[[files]]
-file = "mods/yungs-api-neoforge.pw.toml"
-hash = "80f8b077b7fc1adfd2f895d79d004e09099b6ed5eaf9e8b0c7cd42759d8c18dd"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-desert-temples-neoforge.pw.toml"
-hash = "9d850f339f573961ceffa688f221accedb8c0c36746a5377df872a110f39e3e5"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-dungeons-neoforge.pw.toml"
-hash = "b6527599723cd47781e0e2eb029ba1858ecd000e5d6a972c5497838b6fb967bb"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-end-island-neoforge.pw.toml"
-hash = "2e763194942381a7829dc6eb0503930a97408ee31ad7d05c77c6d094499e40d3"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-jungle-temples-neoforge.pw.toml"
-hash = "6dc8b6b822d296d026dc2685f57da95746e57f30f501640801546ba7a259b520"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-mineshafts-neoforge.pw.toml"
-hash = "c2053af07ae41f932040eaa078a7d22438cbb0bf16ebcf0926740dd8777f9498"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-nether-fortresses-neoforge.pw.toml"
-hash = "66100a73e80ebb36aa78789dbcd49b2485459e834b75f7b2e893cc11c06f9a3f"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-ocean-monuments-neoforge.pw.toml"
-hash = "aa8b30f1fedc700205ffb96c2a92e0deedbbe42f3d95d64c2fcc1228fdd049aa"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-strongholds-neoforge.pw.toml"
-hash = "0a47325379d60e0886ab96a8c247ae8820bcb1a4a8ae53d855a50a99f6cab4ca"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-witch-huts-neoforge.pw.toml"
-hash = "537a140266ce5c290490e4712935590ff40deeaa0af68f54fcf56157a82eb953"
-metafile = true
-
-[[files]]
-file = "mods/yungs-extras-neoforge.pw.toml"
-hash = "15c30a404bc24e1806a780ae83e5a7364d04fac86e2ec448a1a44342935ef0da"
 metafile = true
