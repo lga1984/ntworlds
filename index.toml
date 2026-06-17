@@ -298,6 +298,16 @@ hash = "acf12138141565b8340ff5f44307809459d57768e696068505360736563b2376"
 metafile = true
 
 [[files]]
+file = "mods/colorwheel-patcher.pw.toml"
+hash = "8af0feaaeea69a4d7d93cef40af7dbfd6d0ee3c30f1ff00cffdefb7a222cafc9"
+metafile = true
+
+[[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "9dc64f549717e381df120baea89bebdf0d815510d373d5b0ae9e85a7409850a1"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "b66c76dd9148686b0bccc5166839892b2442197504510bd9cca1306755a18ad1"
 metafile = true
@@ -305,6 +315,11 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "e1652216456cb6c5026b3e6b48d98b1509457eb6d974e18002af4ec3bf040ffa"
+metafile = true
+
+[[files]]
+file = "mods/construction-sticks.pw.toml"
+hash = "893aad9df7e8e031d36ac74f9129f3cb3ad27f74db3bd4a71d32a6058f933ff6"
 metafile = true
 
 [[files]]
@@ -578,6 +593,11 @@ hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
 metafile = true
 
 [[files]]
+file = "mods/gliders.pw.toml"
+hash = "b8b618ee02910194cd17a4ba036ae76192c1400dae984ffba12ffc90118b09ec"
+metafile = true
+
+[[files]]
 file = "mods/glodium.pw.toml"
 hash = "9aafdd83668c1b903caf0245b0bf2de3bb743befaa78d39e74a95c9933d624ac"
 metafile = true
@@ -585,6 +605,11 @@ metafile = true
 [[files]]
 file = "mods/gravitational-modulating-additional-unit.pw.toml"
 hash = "a1c7bbaa1a007909fe408ccd54a069e7c8783d01359c9f0a5dc6288056d1e9c3"
+metafile = true
+
+[[files]]
+file = "mods/guard-villagers.pw.toml"
+hash = "6424aa354655682483ec2a0db6b6f24b1f09b349d93d9e6bfeeb73733fdfa759"
 metafile = true
 
 [[files]]
@@ -910,11 +935,6 @@ metafile = true
 [[files]]
 file = "mods/overloaded-armor-bar.pw.toml"
 hash = "e552cd6521dd695465502430f1001cf98b87bc534c72b27a98d16e2c3a13b6ce"
-metafile = true
-
-[[files]]
-file = "mods/paragliders.pw.toml"
-hash = "abfaa1603e21bbcd94e8464c460ccb29a465f8b0ced64abdc661c79c03bab395"
 metafile = true
 
 [[files]]
