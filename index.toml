@@ -683,6 +683,11 @@ hash = "3074becb4af3c5775b077319fa98de738ea77eccfff89c89a9eff7df34a7aa8d"
 metafile = true
 
 [[files]]
+file = "mods/gtbcs-spelllib.pw.toml"
+hash = "c2477f9bb82634af45d70a97e6fde7d31f1aa0d2e1a07210ec425243d350b6ba"
+metafile = true
+
+[[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "6424aa354655682483ec2a0db6b6f24b1f09b349d93d9e6bfeeb73733fdfa759"
 metafile = true
