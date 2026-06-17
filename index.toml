@@ -403,6 +403,16 @@ hash = "444c9eae90f89417f7c9dfc21eb3027a5fd72410e6066481b0d87570195baeb7"
 metafile = true
 
 [[files]]
+file = "mods/create-propulsion-simulated.pw.toml"
+hash = "3fd629d483c750e80a6e450ce0f350b5a15dc6d206fbe7124d5230abd7f164ac"
+metafile = true
+
+[[files]]
+file = "mods/create-ultimine.pw.toml"
+hash = "15842d4b438ac8537662f798b80621a876fc9ec7483c2917e41fc852ed07a364"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
@@ -685,6 +695,16 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "d573695d37296209dc06495d359c4b283ffa6640bcfe8aa9c9b59eb420891788"
+metafile = true
+
+[[files]]
+file = "mods/hazen-n-stuff.pw.toml"
+hash = "7fe83c4735ade8925aa3817257361010badc281697411b5b68caa808c3ae33ac"
+metafile = true
+
+[[files]]
+file = "mods/hazentouvelib.pw.toml"
+hash = "7c4fc33118753a63c89491651f523e969823d5273d83cb927d11c01efd743c5b"
 metafile = true
 
 [[files]]
