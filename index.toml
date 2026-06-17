@@ -283,11 +283,6 @@ hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
 metafile = true
 
 [[files]]
-file = "mods/choicetheorems-overhauled-village.pw.toml"
-hash = "000217304bbb5971cb9dde9081fcb5ea92cc7edcae83321effdcd92b36e2f490"
-metafile = true
-
-[[files]]
 file = "mods/chroma-carvings.pw.toml"
 hash = "b613fb7592db20e20b1a083d9fd30cfbdf88a370d5fcfd2cc2de6b7621cbeeb1"
 metafile = true
@@ -538,11 +533,6 @@ hash = "832116ba3f826af7f8ccfc56d11c19a350cd152fe194f0d27c1b1c9f3db30ed7"
 metafile = true
 
 [[files]]
-file = "mods/explorify.pw.toml"
-hash = "9f5e29573d64c3e33e372a2d2140335bcb1d84c3afcfc0933cad258acbd4178e"
-metafile = true
-
-[[files]]
 file = "mods/exposure-polaroid.pw.toml"
 hash = "75e0914a4efda23e233a8e61ffa350256970fcaae81998d7a9d94b113efb1dba"
 metafile = true
@@ -713,18 +703,8 @@ hash = "7c4fc33118753a63c89491651f523e969823d5273d83cb927d11c01efd743c5b"
 metafile = true
 
 [[files]]
-file = "mods/hellish-trials.pw.toml"
-hash = "f493681afe9d27595b382cfbbc756ea0ab06daa106e5bd8f50b10e6e8cc1076c"
-metafile = true
-
-[[files]]
 file = "mods/heyberryshutup.pw.toml"
 hash = "bb45fd8d63908c2c96b96d6b863a748b0d673b37310af207bb352c007af05dd0"
-metafile = true
-
-[[files]]
-file = "mods/illager-warship.pw.toml"
-hash = "9c29704cb4b162b8dc6a0fa8bdeddcb250a5029d7ab85467445dffb9156c484c"
 metafile = true
 
 [[files]]
@@ -845,11 +825,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "3b41e84ca0e5bd93f05eddcdff3f47b38e8bb9863b9bbb4bf05991098487a8a5"
-metafile = true
-
-[[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "a5171f661eb50b84152c265c1458698394b484225c75db459016738f761beb08"
 metafile = true
 
 [[files]]
@@ -988,16 +963,6 @@ hash = "2fb7e655ff6cd74cf4d97ce3cdb14c606e015ae3c59fa0a970deaddd990b6a80"
 metafile = true
 
 [[files]]
-file = "mods/mns-moogs-nether-structures.pw.toml"
-hash = "90f0033b66d093452767719c725914a8a2b148e99d0b10547fa15226382364e8"
-metafile = true
-
-[[files]]
-file = "mods/mo-structures.pw.toml"
-hash = "2a683828180acbfa4f889bbe0b373fecc172bd332923e4e8f436dd18a466abc5"
-metafile = true
-
-[[files]]
 file = "mods/model-gap-fix.pw.toml"
 hash = "de97e04da7383f948463a2c2dd73884a474a9b20a64591061dd27cd0bc8988c2"
 metafile = true
@@ -1018,21 +983,6 @@ hash = "a58c1322f0d21a88b3a42627374f045fe34a0385ef6630ec516b77d73438accc"
 metafile = true
 
 [[files]]
-file = "mods/moogs-end-structures.pw.toml"
-hash = "d320f7c6591bce3b9e6a808db01e57a1c337422209ee53ffa1d6d84383c24bde"
-metafile = true
-
-[[files]]
-file = "mods/moogs-structure-lib.pw.toml"
-hash = "dca980571971a41d3db163d28c76e72d2a6452bd0f02c736ea3da90bf80e4a11"
-metafile = true
-
-[[files]]
-file = "mods/moogs-voyager-structures.pw.toml"
-hash = "1ff330b182840239f0216132374854c2a8bf346c6ce9e7623f93b333df973d7d"
-metafile = true
-
-[[files]]
 file = "mods/more-dragon-eggs.pw.toml"
 hash = "6526d0de1fe5acd6a4fa0135b8b7bcd7fc09bd481f85e7f8221db633ff58e676"
 metafile = true
@@ -1045,11 +995,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "057044d2179d9e10b616ef8fa4cc870ad350842fc5c325ce0b3766160852cd13"
-metafile = true
-
-[[files]]
-file = "mods/mss-moogs-soaring-structures.pw.toml"
-hash = "45a1b71094606e09e160e39671582b00056790d79015b6d5bd047d2b3d0dc9a7"
 metafile = true
 
 [[files]]
@@ -1180,11 +1125,6 @@ metafile = true
 [[files]]
 file = "mods/repeatable-trial-vaults.pw.toml"
 hash = "ee0200fb345d843a7074fccd4f29566ad99d0dccef2a367df7ed323d7a6e8b5d"
-metafile = true
-
-[[files]]
-file = "mods/repurposed-structures.pw.toml"
-hash = "43eae9b889404e296aa6b0722e9305d1f320c1bdf6c861fb7b86fae6cbaaa80c"
 metafile = true
 
 [[files]]
@@ -1383,23 +1323,8 @@ hash = "79c2c9659d5b8b87f73e25bd0fbdd575ff5a39f6066fc7d421b7313fc86b9c25"
 metafile = true
 
 [[files]]
-file = "mods/underground-villages.pw.toml"
-hash = "7ac3fbdfffe53dbbe6a7ce5b54030efac42a94fe9aa9a72d3ee6a825642d4afd"
-metafile = true
-
-[[files]]
 file = "mods/utilitarian.pw.toml"
 hash = "273085ae95f4c7f12c96b54a25c385220b88172a1ccf85ae95c5765b049c06bc"
-metafile = true
-
-[[files]]
-file = "mods/variants-and-ventures.pw.toml"
-hash = "4e45d6b3ee689b7bf8a0b30eaf8570c6f9140222e6677d82aaf0b7de6dddf4e7"
-metafile = true
-
-[[files]]
-file = "mods/villages-and-pillages.pw.toml"
-hash = "a30bd487a41b94bc42ab4572f469fc9997d80131f1ea6f3c95d7ade9514626eb"
 metafile = true
 
 [[files]]
@@ -1455,11 +1380,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "75226d6628d07c4f19e9adcc02f0b36a7f50bbf9071c0971cbacd04b4d4f4799"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "492daa3391b6079b541685db276007b286774bab3b9881505127b7aef6b3f16c"
 metafile = true
 
 [[files]]
