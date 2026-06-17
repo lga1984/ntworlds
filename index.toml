@@ -63,11 +63,6 @@ hash = "cd38c6ff0a1cd02fd2ed08d1238313cb67b8edb4fc933577ccd4297be6c4663f"
 metafile = true
 
 [[files]]
-file = "mods/advanced-loot-info.pw.toml"
-hash = "e4a27a08d7affa86f9c94f39e814ac16745e6a8ab3f70c713d36eb0d861a63af"
-metafile = true
-
-[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "95260471eefa73e63432e990724810d0f6e9fa5e5fca1cbc4dd8124263330c8a"
 metafile = true
@@ -400,11 +395,6 @@ metafile = true
 [[files]]
 file = "mods/create-aeroworks.pw.toml"
 hash = "444c9eae90f89417f7c9dfc21eb3027a5fd72410e6066481b0d87570195baeb7"
-metafile = true
-
-[[files]]
-file = "mods/create-propulsion-simulated.pw.toml"
-hash = "3fd629d483c750e80a6e450ce0f350b5a15dc6d206fbe7124d5230abd7f164ac"
 metafile = true
 
 [[files]]
