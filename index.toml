@@ -1229,7 +1229,7 @@ metafile = true
 
 [[files]]
 file = "mods/twemoji.pw.toml"
-hash = "901fd3c2dfa55237ee702dbcb58b3cf4d81c1984822c30ba90d834f61aab6293"
+hash = "79c2c9659d5b8b87f73e25bd0fbdd575ff5a39f6066fc7d421b7313fc86b9c25"
 metafile = true
 
 [[files]]
