@@ -348,8 +348,33 @@ hash = "4ab48faa592ae4140f8d7763585d306f6640983365bcceab2c936475911a6959"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-climbable-ropes.pw.toml"
+hash = "7ec7c14b993adb1703085c631400e0b6e7eae83f37d18465bd2370d4b8451f2b"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-mekanism-compatibility.pw.toml"
+hash = "dc69ca0d4d628e7bd61c2a99471253dffdc875f2b7d1d91d2e25f4947ce6dd5d"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-sable-mass-view.pw.toml"
+hash = "7906fb17d0ade89e52de402008be3e422b72ebdaf020d90792cb9e82988dfe6a"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "59beba57945e374108e22789e8fc32d2758174929ebd9bf17fc139956dc32e30"
+metafile = true
+
+[[files]]
+file = "mods/create-aeroportals.pw.toml"
+hash = "cf8ea1c32a7be0719365004338b7c5e3ac701a758775d65972c69f6fcc475b0a"
+metafile = true
+
+[[files]]
+file = "mods/create-aeroworks.pw.toml"
+hash = "444c9eae90f89417f7c9dfc21eb3027a5fd72410e6066481b0d87570195baeb7"
 metafile = true
 
 [[files]]
@@ -665,6 +690,11 @@ metafile = true
 [[files]]
 file = "mods/jade-addons.pw.toml"
 hash = "89420f657cec1038646f75531ae388e92d27c51c84b1f121e935ae5aecf995be"
+metafile = true
+
+[[files]]
+file = "mods/jade-sable-compat.pw.toml"
+hash = "c8c88dccbcc05d9595fb12df521e3184a435ba616a882b3648dc4ae301b8af23"
 metafile = true
 
 [[files]]
@@ -1020,6 +1050,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
+metafile = true
+
+[[files]]
+file = "mods/sable-physics-compat.pw.toml"
+hash = "785cb5e2c385cdf779f3ced160e0ca85a2d12f139240ed5cee86242efd5ba565"
 metafile = true
 
 [[files]]

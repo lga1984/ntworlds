@@ -1,0 +1,13 @@
+name = "Create: AeroPortals"
+filename = "aeroportals-1.21.1-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a06f63bd618aa45019aa4a4bcdea26bb61e05519"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8214969
+project-id = 1549100
