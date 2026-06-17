@@ -1063,11 +1063,6 @@ hash = "83417438759e9f039c0b740bff77c7015819426fea9694fbfdfaac509cddb08c"
 metafile = true
 
 [[files]]
-file = "mods/sophisticated-jei-index.pw.toml"
-hash = "b5c5bc9fec6ff667ca4bba58bf45b82d162a17dae513d9a43c5fe1f52c67e69e"
-metafile = true
-
-[[files]]
 file = "mods/sophisticated-storage-create-integration.pw.toml"
 hash = "c66a21cc5dcab2ba241b47c42544cf0ca1bccdf8e6605c6d332837fb2dbe98ca"
 metafile = true
