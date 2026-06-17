@@ -318,6 +318,11 @@ hash = "b66c76dd9148686b0bccc5166839892b2442197504510bd9cca1306755a18ad1"
 metafile = true
 
 [[files]]
+file = "mods/companion.pw.toml"
+hash = "8823190421ae8c3216dd9ab0c4be4bc1ab21600114b47cd36fd2c66ce2ee0465"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "e1652216456cb6c5026b3e6b48d98b1509457eb6d974e18002af4ec3bf040ffa"
 metafile = true
@@ -750,6 +755,11 @@ metafile = true
 [[files]]
 file = "mods/justenoughbreeding.pw.toml"
 hash = "1d81880c101c44c858e695066764f2b94a0da0cf00a8fbff432f7ea45f31cd27"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.pw.toml"
+hash = "e3b291c04643b91eb5f4b963d07267c7de2aee6ed239abc3d3f5b1ed26082b95"
 metafile = true
 
 [[files]]
