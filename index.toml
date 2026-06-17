@@ -1388,6 +1388,11 @@ hash = "273085ae95f4c7f12c96b54a25c385220b88172a1ccf85ae95c5765b049c06bc"
 metafile = true
 
 [[files]]
+file = "mods/variants-and-ventures.pw.toml"
+hash = "4e45d6b3ee689b7bf8a0b30eaf8570c6f9140222e6677d82aaf0b7de6dddf4e7"
+metafile = true
+
+[[files]]
 file = "mods/waterframes.pw.toml"
 hash = "5d5b144eb42a6a6d505c720a3f04c6b84be39165ccf08c3f1a01dabf0e75b2ac"
 metafile = true
@@ -1445,6 +1450,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "75226d6628d07c4f19e9adcc02f0b36a7f50bbf9071c0971cbacd04b4d4f4799"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "492daa3391b6079b541685db276007b286774bab3b9881505127b7aef6b3f16c"
 metafile = true
 
 [[files]]
