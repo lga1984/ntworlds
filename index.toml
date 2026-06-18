@@ -365,11 +365,6 @@ hash = "b66c76dd9148686b0bccc5166839892b2442197504510bd9cca1306755a18ad1"
 metafile = true
 
 [[files]]
-file = "mods/companion.pw.toml"
-hash = "8823190421ae8c3216dd9ab0c4be4bc1ab21600114b47cd36fd2c66ce2ee0465"
-metafile = true
-
-[[files]]
 file = "mods/configured.pw.toml"
 hash = "e1652216456cb6c5026b3e6b48d98b1509457eb6d974e18002af4ec3bf040ffa"
 metafile = true
@@ -422,11 +417,6 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "59beba57945e374108e22789e8fc32d2758174929ebd9bf17fc139956dc32e30"
-metafile = true
-
-[[files]]
-file = "mods/create-aeroportals.pw.toml"
-hash = "cf8ea1c32a7be0719365004338b7c5e3ac701a758775d65972c69f6fcc475b0a"
 metafile = true
 
 [[files]]
@@ -745,11 +735,6 @@ hash = "e53136ead606a4431a7d9f4e62337363cf8ccd0da122443c00d0ba2f375d364b"
 metafile = true
 
 [[files]]
-file = "mods/jade-sable-compat.pw.toml"
-hash = "69616ce18d77306e80870eb85df05c1706f083a6d486ce063c8fa9813c70140f"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
 metafile = true
@@ -767,11 +752,6 @@ metafile = true
 [[files]]
 file = "mods/just-zoom.pw.toml"
 hash = "9cf35d5b0b7ab064ea54e393af17304e5264ee6a59f5224fb5b79ad3c45ea22f"
-metafile = true
-
-[[files]]
-file = "mods/kiwi.pw.toml"
-hash = "e3b291c04643b91eb5f4b963d07267c7de2aee6ed239abc3d3f5b1ed26082b95"
 metafile = true
 
 [[files]]
