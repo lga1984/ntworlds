@@ -13,6 +13,10 @@ file = "config/Mekanism/common.toml"
 hash = "26670be76c4d4ef207d746f2cf5d6c589b2b219ecb71f763bb697692c99fb338"
 
 [[files]]
+file = "config/betterclouds-v1.json"
+hash = "fe046b980be886522672b8027eee946808af21d0d7d110e169ffeff32beb09bd"
+
+[[files]]
 file = "config/betterf3.toml"
 hash = "0ece2967a58b2b2677b2d040f7677cb7c4c91a8d5d1c7fdf2d802e2eac196cec"
 
