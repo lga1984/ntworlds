@@ -1070,11 +1070,6 @@ hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
 
 [[files]]
-file = "mods/protect-my-pets.pw.toml"
-hash = "97196785630478504e4ea17dde01baffd99ba2548f5d0dd65f3ba15dcc7b55f1"
-metafile = true
-
-[[files]]
 file = "mods/re-animal.pw.toml"
 hash = "4f90db793978fd68d26346271767de42c29549b89e6d5f5266e54b0621e71cb0"
 metafile = true
