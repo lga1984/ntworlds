@@ -13,6 +13,10 @@ file = "config/Mekanism/common.toml"
 hash = "26670be76c4d4ef207d746f2cf5d6c589b2b219ecb71f763bb697692c99fb338"
 
 [[files]]
+file = "config/betterf3.toml"
+hash = "0ece2967a58b2b2677b2d040f7677cb7c4c91a8d5d1c7fdf2d802e2eac196cec"
+
+[[files]]
 file = "config/computercraft-server.toml"
 hash = "c2aa8857aa623171867ccfc28b8ea85a3ee86d0feba8c5e62a3e06e5b86b7fd9"
 
@@ -225,6 +229,11 @@ metafile = true
 [[files]]
 file = "mods/better-fps-render-distance.pw.toml"
 hash = "3053f282100bb909aaf119707e0eb0eeee6b3a9cb6bc13ea33b2d62c769c2c6e"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "3330f934f8dd4d6fa0c188d96cae55449dc8e9b27458ba73cceb801f1a81e082"
 metafile = true
 
 [[files]]
