@@ -734,7 +734,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-sable-compat.pw.toml"
-hash = "c8c88dccbcc05d9595fb12df521e3184a435ba616a882b3648dc4ae301b8af23"
+hash = "69616ce18d77306e80870eb85df05c1706f083a6d486ce063c8fa9813c70140f"
 metafile = true
 
 [[files]]
