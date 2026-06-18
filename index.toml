@@ -843,11 +843,6 @@ hash = "e551caa3f5272461a2c64b948499434fad21854f5edc6750ed9e432174d9d33f"
 metafile = true
 
 [[files]]
-file = "mods/mekagenjei-mekanism-generator-addon.pw.toml"
-hash = "1835686def20fd45755cd662c56e970e9014d21c754e86aada279262566ea036"
-metafile = true
-
-[[files]]
 file = "mods/mekajadeupgrades.pw.toml"
 hash = "20ba1021bb3047a3c56ffa39b40c97638211934b3fb129b9ee9b66e99387822d"
 metafile = true
