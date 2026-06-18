@@ -1,0 +1,13 @@
+name = "Protect My Pets!"
+filename = "protect_my_pets-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "719df9acb0afd3bf85f9524fa69369fe214e6926"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7600852
+project-id = 1279599

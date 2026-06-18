@@ -425,6 +425,21 @@ hash = "444c9eae90f89417f7c9dfc21eb3027a5fd72410e6066481b0d87570195baeb7"
 metafile = true
 
 [[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "5c4c63c7e91f5e2a012d5d0e9cd28e5aed5904b59d6d7d8424b28d7aa6060907"
+metafile = true
+
+[[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "b8871b2a91d1eb68d187060e8f6e34d9cd2b407677587e9481b4b9eb042afab0"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "35f89136e9bed113613f23c93762ee08c6a9148fca951aabfe2cccb930a993c9"
+metafile = true
+
+[[files]]
 file = "mods/create-ultimine.pw.toml"
 hash = "15842d4b438ac8537662f798b80621a876fc9ec7483c2917e41fc852ed07a364"
 metafile = true
@@ -740,6 +755,11 @@ hash = "e53136ead606a4431a7d9f4e62337363cf8ccd0da122443c00d0ba2f375d364b"
 metafile = true
 
 [[files]]
+file = "mods/itemphysic.pw.toml"
+hash = "10c8ed7af2946ec3e7cd15b8ea5d19ba5e8f1f07b51654541ba71022cad0cf0c"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
 metafile = true
@@ -1047,6 +1067,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
+metafile = true
+
+[[files]]
+file = "mods/protect-my-pets.pw.toml"
+hash = "97196785630478504e4ea17dde01baffd99ba2548f5d0dd65f3ba15dcc7b55f1"
 metafile = true
 
 [[files]]
