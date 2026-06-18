@@ -1078,11 +1078,6 @@ hash = "3ee01a32b6309256f083a8c67fc458e6745fc730c8abd86faa4a304333520064"
 metafile = true
 
 [[files]]
-file = "mods/scalablelux.pw.toml"
-hash = "d08e6d9ba557d0289c7efadd856f5c1d3ece8cadaa4c1ad28b6255d4755a18d2"
-metafile = true
-
-[[files]]
 file = "mods/screenshot-viewer.pw.toml"
 hash = "f7ae1676a74c3c712d68aa8e54448883cd78cf348abe86c5f7343dae23fc2a91"
 metafile = true
@@ -1195,6 +1190,11 @@ metafile = true
 [[files]]
 file = "mods/stormies-spiders.pw.toml"
 hash = "9be9e5eda9f6e34b4732edbfcfbd372f8a84f39cad11701a92fa7510c2d83ac8"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "db845eb158247bde04edc727945fbf67c6a46f0cbe4d2a1e9142263c022c73f8"
 metafile = true
 
 [[files]]
