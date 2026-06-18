@@ -178,11 +178,6 @@ hash = "682fd4aef38fca5a2dee7cb858d6f64f81637b25f3f251e70a2b04b1a70aea5c"
 metafile = true
 
 [[files]]
-file = "mods/atlas-api.pw.toml"
-hash = "8c6d5170ca4f3e42a3ff45ec2891a24fef98ab136f3e427fc34af23564d9e7dc"
-metafile = true
-
-[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "a445471ac6843bcf9fb76eabb4357de0357dfa7782be536a7827a26764fe45c1"
 metafile = true
@@ -313,16 +308,6 @@ hash = "acf12138141565b8340ff5f44307809459d57768e696068505360736563b2376"
 metafile = true
 
 [[files]]
-file = "mods/colorwheel-patcher.pw.toml"
-hash = "8af0feaaeea69a4d7d93cef40af7dbfd6d0ee3c30f1ff00cffdefb7a222cafc9"
-metafile = true
-
-[[files]]
-file = "mods/colorwheel.pw.toml"
-hash = "9dc64f549717e381df120baea89bebdf0d815510d373d5b0ae9e85a7409850a1"
-metafile = true
-
-[[files]]
 file = "mods/comforts.pw.toml"
 hash = "b66c76dd9148686b0bccc5166839892b2442197504510bd9cca1306755a18ad1"
 metafile = true
@@ -375,11 +360,6 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics-mekanism-compatibility.pw.toml"
 hash = "dc69ca0d4d628e7bd61c2a99471253dffdc875f2b7d1d91d2e25f4947ce6dd5d"
-metafile = true
-
-[[files]]
-file = "mods/create-aeronautics-sable-mass-view.pw.toml"
-hash = "7906fb17d0ade89e52de402008be3e422b72ebdaf020d90792cb9e82988dfe6a"
 metafile = true
 
 [[files]]
@@ -468,23 +448,8 @@ hash = "2bfe1523d89098c72c7072531f60eb24c6b41fea2ee294bfcb86c3c385464c08"
 metafile = true
 
 [[files]]
-file = "mods/emi-ores.pw.toml"
-hash = "e2839cee5bdbe2415532858b6b39b13c23dfea06c0a35a790e4e665eb3d72573"
-metafile = true
-
-[[files]]
-file = "mods/emi-professions-emip.pw.toml"
-hash = "5f8a8312a385fa3e76102fe05f975573050641292664923b4db22abf828d2c27"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "8491436f99726aff4cd90644496679665f910b51822d9aac38401d0c70dfc61a"
-metafile = true
-
-[[files]]
-file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
-hash = "e4d5a23da5099ddbe11d56b1f42c3a04cbb34000c78123f8924714a902ebb073"
 metafile = true
 
 [[files]]
@@ -540,11 +505,6 @@ metafile = true
 [[files]]
 file = "mods/extended-industrialization.pw.toml"
 hash = "dfa25338d527f169d2352422f8b6b76ca90105529cba86a335a593555d8848fa"
-metafile = true
-
-[[files]]
-file = "mods/extra-mod-integrations.pw.toml"
-hash = "cf469a64fb7d166b2b7f10bd8a6a97b63c43afcd90d0ec3a303ac9a4f327e3d4"
 metafile = true
 
 [[files]]
@@ -708,16 +668,6 @@ hash = "bc0ed43619af3b5e453ccb36412d72aef8d066594946a927155d2fbd440e4b40"
 metafile = true
 
 [[files]]
-file = "mods/irons-apothic-invaders.pw.toml"
-hash = "c1da83a3145e1cae6db9efdddb4ba4b9a11c64d0038049cd49e5684e0a9a6259"
-metafile = true
-
-[[files]]
-file = "mods/irons-jewelry.pw.toml"
-hash = "9f53043aa6e3791e9fc37be502aff8a51cd82f58a5ffbe2454caba4d7b705241"
-metafile = true
-
-[[files]]
 file = "mods/irons-lib.pw.toml"
 hash = "ec000d411bc7cb81fb2a9723e57e8568209e2a67eb7ce2fc7f0e35e4daf14043"
 metafile = true
@@ -725,11 +675,6 @@ metafile = true
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "e53136ead606a4431a7d9f4e62337363cf8ccd0da122443c00d0ba2f375d364b"
-metafile = true
-
-[[files]]
-file = "mods/jade-addons.pw.toml"
-hash = "89420f657cec1038646f75531ae388e92d27c51c84b1f121e935ae5aecf995be"
 metafile = true
 
 [[files]]
@@ -753,18 +698,8 @@ hash = "cfbd559d71ee11e13fc927fe82c75c37e2c198b29fb03825fec737882dead9a2"
 metafile = true
 
 [[files]]
-file = "mods/just-enough-mekanism-multiblocks.pw.toml"
-hash = "0b5b64a0aa4086ddd2663002099ea79f01a19db306bf6601e999125d3429c0ec"
-metafile = true
-
-[[files]]
 file = "mods/just-zoom.pw.toml"
 hash = "9cf35d5b0b7ab064ea54e393af17304e5264ee6a59f5224fb5b79ad3c45ea22f"
-metafile = true
-
-[[files]]
-file = "mods/justenoughbreeding.pw.toml"
-hash = "1d81880c101c44c858e695066764f2b94a0da0cf00a8fbff432f7ea45f31cd27"
 metafile = true
 
 [[files]]
@@ -908,11 +843,6 @@ hash = "20ba1021bb3047a3c56ffa39b40c97638211934b3fb129b9ee9b66e99387822d"
 metafile = true
 
 [[files]]
-file = "mods/mekanism-curios.pw.toml"
-hash = "9a68b7147925f990361923baf0647016ca2f2249c6f95db8e3c46d997dc175de"
-metafile = true
-
-[[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "d270c535152d5388823cbd3913a0f14b088ef14f91f9eec61444f1102d19bdc1"
 metafile = true
@@ -1010,11 +940,6 @@ metafile = true
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
 hash = "02c4f941c76c49cbaeb17e549dc0e37562ff5cbd6ca51fec9d8da3bb73538507"
-metafile = true
-
-[[files]]
-file = "mods/omega-config.pw.toml"
-hash = "3ebed47349762ba6b9fcef70f7f59d809df792f16cf394bd5a269f21cb44b401"
 metafile = true
 
 [[files]]
@@ -1188,11 +1113,6 @@ hash = "fd2d18e64bdc0508675c1974acda7eff6c7bb62e99851d0916cf407101f8a981"
 metafile = true
 
 [[files]]
-file = "mods/smithing-template-viewer.pw.toml"
-hash = "a7a9447d9d70093d54e1854fd66746df13495f96b948de37a34835266f873184"
-metafile = true
-
-[[files]]
 file = "mods/snow-under-trees.pw.toml"
 hash = "47c46327364e22244eddf4e3ce8d0bd88ebf8f561d8511e76b0f0e5aeb8419a4"
 metafile = true
@@ -1330,11 +1250,6 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "61387d427f7c5bfd71df275f731384b70ae12f6b1e520ee9e232ae8c175d42bd"
-metafile = true
-
-[[files]]
-file = "mods/wither-skeleton-tweaks.pw.toml"
-hash = "1e64fe8b0e6b3f7099ed41c1bbe1ec213e48e2c2c7372e130abcb59b3c6679ac"
 metafile = true
 
 [[files]]
