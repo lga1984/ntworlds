@@ -1187,6 +1187,11 @@ hash = "ff6934dbf3203c63dbdab3b2b3a89e82c047ad22db63d8511d737a489aac743c"
 metafile = true
 
 [[files]]
+file = "mods/smsn.pw.toml"
+hash = "e96a94605e27815462779156125c2b312e0354d6b037512a9700add91c635ac1"
+metafile = true
+
+[[files]]
 file = "mods/snow-under-trees.pw.toml"
 hash = "47c46327364e22244eddf4e3ce8d0bd88ebf8f561d8511e76b0f0e5aeb8419a4"
 metafile = true
