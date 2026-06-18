@@ -208,6 +208,11 @@ hash = "ca2935cb7ebb54a44902356511930048e93198dc770175fc34d7c9644a19aa1c"
 metafile = true
 
 [[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "14d4d086f580c13d71fd93919063f41dbf339061cb8b1318dbe3958db3cba8c9"
+metafile = true
+
+[[files]]
 file = "mods/biolith.pw.toml"
 hash = "cc68949c02bcb1ea4ad83d7a8f9c7b039b7ccb6af8ac97a8b9ea62efaac7a484"
 metafile = true
@@ -220,6 +225,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
+metafile = true
+
+[[files]]
+file = "mods/born-in-chaos.pw.toml"
+hash = "4a7d85fc2f67432dad21dd3b316a557ff73d1b4992a54cc1e0877d2ae0c8207a"
 metafile = true
 
 [[files]]
@@ -270,6 +280,11 @@ metafile = true
 [[files]]
 file = "mods/chroma-carvings.pw.toml"
 hash = "b613fb7592db20e20b1a083d9fd30cfbdf88a370d5fcfd2cc2de6b7621cbeeb1"
+metafile = true
+
+[[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "5fb9ffa1760e85a56501a4f2429763e1067896d230b257376fd6ca1983eae220"
 metafile = true
 
 [[files]]
@@ -410,11 +425,6 @@ metafile = true
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "09f8e2af6cb0a5151a44390389ec62012296ec069dd21eb418079e17b48c2f18"
-metafile = true
-
-[[files]]
-file = "mods/cristel-lib.pw.toml"
-hash = "c76891545fb28fbcd2c280cf451ad98a463f8a17a50e0eee8a33b3b410743711"
 metafile = true
 
 [[files]]
@@ -650,6 +660,11 @@ metafile = true
 [[files]]
 file = "mods/glodium.pw.toml"
 hash = "9aafdd83668c1b903caf0245b0bf2de3bb743befaa78d39e74a95c9933d624ac"
+metafile = true
+
+[[files]]
+file = "mods/goblin-traders.pw.toml"
+hash = "29abe36be13fe414e13125140f1c4fe373f7daf79a11ba511e0f77a47ea7f946"
 metafile = true
 
 [[files]]
@@ -1113,6 +1128,11 @@ hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
 metafile = true
 
 [[files]]
+file = "mods/royal-variations.pw.toml"
+hash = "7a5c3f34842260f52154d2631755121dc97223b6f49476af2a60fcfc1b3dbe7e"
+metafile = true
+
+[[files]]
 file = "mods/sable-physics-compat.pw.toml"
 hash = "785cb5e2c385cdf779f3ced160e0ca85a2d12f139240ed5cee86242efd5ba565"
 metafile = true
@@ -1243,16 +1263,6 @@ hash = "9be9e5eda9f6e34b4732edbfcfbd372f8a84f39cad11701a92fa7510c2d83ac8"
 metafile = true
 
 [[files]]
-file = "mods/structory-towers.pw.toml"
-hash = "e74548b0dc0bb3633e122f1c36fc8a7978128f15d11cea1a9b54da4991bc1e6f"
-metafile = true
-
-[[files]]
-file = "mods/structory.pw.toml"
-hash = "2232bcc24b4b597dfd19deb3618bf8e0431d7437e978f7503f32ec59f6dd16cd"
-metafile = true
-
-[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "8fffbaea812abaf63eef0b1bee642745791a49b54c8689bf3cd62cd29b2b7f81"
 metafile = true
@@ -1280,11 +1290,6 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "4acd0daed52188d2ccd8277953e697113aebf89c1bd6b1049a1e859f8eb26ce3"
-metafile = true
-
-[[files]]
-file = "mods/towns-and-towers.pw.toml"
-hash = "d9a5b02ffd50154e99ef15135e2929282055071efd75fee2b510bf9acb734148"
 metafile = true
 
 [[files]]
@@ -1350,6 +1355,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "75226d6628d07c4f19e9adcc02f0b36a7f50bbf9071c0971cbacd04b4d4f4799"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "b253b695322802d24cde85a9cbb7b9084abff52eec5042c3123a797e0d30ab5c"
 metafile = true
 
 [[files]]
