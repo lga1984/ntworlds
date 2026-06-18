@@ -695,6 +695,11 @@ hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
 metafile = true
 
 [[files]]
+file = "mods/glass-breaker.pw.toml"
+hash = "03d036efb16accf530e2f742b7260086afb4b0575784b5598917a1b69f9169b4"
+metafile = true
+
+[[files]]
 file = "mods/gliders.pw.toml"
 hash = "b8b618ee02910194cd17a4ba036ae76192c1400dae984ffba12ffc90118b09ec"
 metafile = true

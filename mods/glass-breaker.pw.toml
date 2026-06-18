@@ -1,0 +1,13 @@
+name = "Glass Breaker"
+filename = "glassbreaker-2.0.0+1.21+neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2f49b2cb215f44aa9636f63e4bfc04ed7e0116b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5681247
+project-id = 819494
