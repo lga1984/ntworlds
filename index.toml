@@ -228,11 +228,6 @@ hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
 metafile = true
 
 [[files]]
-file = "mods/born-in-chaos.pw.toml"
-hash = "4a7d85fc2f67432dad21dd3b316a557ff73d1b4992a54cc1e0877d2ae0c8207a"
-metafile = true
-
-[[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "3ec3f227220562968dca05112e168c27e9027f43ec53bef1015c0c342b4bab19"
 metafile = true
@@ -1125,11 +1120,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
-metafile = true
-
-[[files]]
-file = "mods/royal-variations.pw.toml"
-hash = "7a5c3f34842260f52154d2631755121dc97223b6f49476af2a60fcfc1b3dbe7e"
 metafile = true
 
 [[files]]
