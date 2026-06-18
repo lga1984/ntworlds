@@ -1123,6 +1123,11 @@ hash = "55c3bf7f2dfa2548fc21421f76e325704838db48f75cd91500d4603d0ecc469c"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "422492cb86259f13b74f4db9126de9c03d1a6264a92c7c9f09d7a5a315ad61da"
+metafile = true
+
+[[files]]
 file = "mods/smart-completion.pw.toml"
 hash = "fd2d18e64bdc0508675c1974acda7eff6c7bb62e99851d0916cf407101f8a981"
 metafile = true
