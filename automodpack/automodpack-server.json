@@ -7,7 +7,9 @@
     "!/kubejs/server_scripts/**",
     "/mods/*.jar",
     "/kubejs/**",
-    "/emotes/*"
+    "/emotes/*",
+    "!/mods/CraterLib-*.jar",
+    "!/mods/SimpleDiscordLink-*.jar"
   ],
   "allowEditsInFiles": [
     "/config/**",

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "automodpack/automodpack-server.json"
-hash = "b6e217580199911a041b2377fd6259f3e8d5469dd6cf15b8de23acedb12b5237"
+hash = "7d10c080bb84c48a1193381bc8c1a6ad9b251e1f840e0d5789814f43eb2365e2"
 
 [[files]]
 file = "config/Advancedperipherals/world.toml"
@@ -55,6 +55,10 @@ hash = "701dfe22f272e6ae70be9063ce76a34fdbc3a7a8d5bcfea26b0e59328fc862ec"
 [[files]]
 file = "config/securitycraft-client.toml"
 hash = "76ece0728cb7f2c58c0fe1e306ae645a04dfc8dc6e66bd8bcc9e34fb1609a5f0"
+
+[[files]]
+file = "config/smsn.json"
+hash = "925db995db8a8ba895ed9852f99faa585658e86d0e1dfd34a410563446879af4"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
