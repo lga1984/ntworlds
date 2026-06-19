@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "automodpack/automodpack-client.json"
+hash = "a8175ef282600dd543748009c463ea33d9374553355d373fb0636f9c35be73e0"
+
+[[files]]
 file = "automodpack/automodpack-server.json"
 hash = "7d10c080bb84c48a1193381bc8c1a6ad9b251e1f840e0d5789814f43eb2365e2"
 
