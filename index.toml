@@ -340,6 +340,11 @@ hash = "69968d3337983555531273604549745ad124bc95e19363f69cb4d1e41f47a980"
 metafile = true
 
 [[files]]
+file = "mods/cleanview.pw.toml"
+hash = "fc0666b3051c3a570387f06232642828dcbc88bb58eb18558c24acf7132029fd"
+metafile = true
+
+[[files]]
 file = "mods/clickable-advancements.pw.toml"
 hash = "7b5c86be25546796eb891e4444e0478aaf93d3515e57df4fd20cdda0daa05a52"
 metafile = true
@@ -1002,6 +1007,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "057044d2179d9e10b616ef8fa4cc870ad350842fc5c325ce0b3766160852cd13"
+metafile = true
+
+[[files]]
+file = "mods/nanny.pw.toml"
+hash = "6cc0b4f7848405ec1eeab1df639aab3952273c7d0c2b47cc8056b0ea7dd0ff97"
 metafile = true
 
 [[files]]
