@@ -65,6 +65,10 @@ file = "config/smsn.json"
 hash = "925db995db8a8ba895ed9852f99faa585658e86d0e1dfd34a410563446879af4"
 
 [[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+hash = "67f8359fe837711c2114abbfd940a28f75af76adf9372a9e785deceb307bad48"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "0c31f109b6c4dca94a153fbdd827bbd5f96149fd5c7863ba0ba41fcab801afe0"
 metafile = true
