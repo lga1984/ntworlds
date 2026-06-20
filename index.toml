@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/clean-swing-through-grass.pw.toml"
-hash = "69968d3337983555531273604549745ad124bc95e19363f69cb4d1e41f47a980"
+hash = "e03a553a445f20ac1a0c6b33e28393682bd802002adbe62a6b772f158725e332"
 metafile = true
 
 [[files]]
@@ -1054,7 +1054,7 @@ metafile = true
 
 [[files]]
 file = "mods/oracle-index.pw.toml"
-hash = "aa75b4235e733bbd6086ac5c90e0887f462e1c1720b67bf4ffc5f5a18d2f4799"
+hash = "f234b295c5a4b22825f6e506a26858608dc0f2b28acd7f17333e8b69677c5373"
 metafile = true
 
 [[files]]
@@ -1174,7 +1174,7 @@ metafile = true
 
 [[files]]
 file = "mods/sawmill.pw.toml"
-hash = "8badb0a5f97edd884b8eb932644d6f7126bf772b12d0014a9856e3dd0c16a49b"
+hash = "e2e27e5f9e3d1214ec7ab26c2de4384e45237330f0894f8d5712aa41e31c7782"
 metafile = true
 
 [[files]]
@@ -1224,7 +1224,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "422492cb86259f13b74f4db9126de9c03d1a6264a92c7c9f09d7a5a315ad61da"
+hash = "599a76943211c7abb306de37f45a699da56e300eb1ec739b035c0912250a0dfd"
 metafile = true
 
 [[files]]
