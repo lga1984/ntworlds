@@ -45,6 +45,10 @@ file = "config/ftbultimine-server.snbt"
 hash = "23c03d1908da7dda32407db98af75a977c63a7cef0dea7cae7736152fe101f0b"
 
 [[files]]
+file = "config/guardvillagers-common.toml"
+hash = "f59edb6087b98307d4b8805dec7a614d7c59d5cc2551d9523555eb9b24ea502b"
+
+[[files]]
 file = "config/lmft.json"
 hash = "7564aee7b7bf3477b71532d3fda3223c5455182d6b516850887184c4412e8c3d"
 
