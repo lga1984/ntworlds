@@ -322,11 +322,6 @@ hash = "9cbe070b269ec57ecb6f69c2130e8839b06b5ba462df4bce81a41d087bc74ec8"
 metafile = true
 
 [[files]]
-file = "mods/chipped.pw.toml"
-hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
-metafile = true
-
-[[files]]
 file = "mods/chroma-carvings.pw.toml"
 hash = "b613fb7592db20e20b1a083d9fd30cfbdf88a370d5fcfd2cc2de6b7621cbeeb1"
 metafile = true
@@ -487,11 +482,6 @@ hash = "51851da1eec44c74801f9b00525c119aa136be6b4c4ba2b5bd8b6d0dcf4791df"
 metafile = true
 
 [[files]]
-file = "mods/creeper-overhaul.pw.toml"
-hash = "09f8e2af6cb0a5151a44390389ec62012296ec069dd21eb418079e17b48c2f18"
-metafile = true
-
-[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "c76891545fb28fbcd2c280cf451ad98a463f8a17a50e0eee8a33b3b410743711"
 metafile = true
@@ -554,11 +544,6 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "8491436f99726aff4cd90644496679665f910b51822d9aac38401d0c70dfc61a"
-metafile = true
-
-[[files]]
-file = "mods/enderman-overhaul.pw.toml"
-hash = "db652d3e04c7b6d861f47b78a346f53ac59aae153ab0fa442b887efa4a5d1ed9"
 metafile = true
 
 [[files]]
@@ -744,11 +729,6 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "10c6e9563ce848472a6e817c05f5801da01a0d941bee2bf9ba7a0e848cf0a334"
-metafile = true
-
-[[files]]
-file = "mods/handcrafted.pw.toml"
-hash = "d573695d37296209dc06495d359c4b283ffa6640bcfe8aa9c9b59eb420891788"
 metafile = true
 
 [[files]]
@@ -1157,16 +1137,6 @@ hash = "ee0200fb345d843a7074fccd4f29566ad99d0dccef2a367df7ed323d7a6e8b5d"
 metafile = true
 
 [[files]]
-file = "mods/resourceful-config.pw.toml"
-hash = "89d21f5da7fea8b1197c6e8e5215d45f7400844560e0f7c179d3c6145bd36a95"
-metafile = true
-
-[[files]]
-file = "mods/resourceful-lib.pw.toml"
-hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
-metafile = true
-
-[[files]]
 file = "mods/sable-physics-compat.pw.toml"
 hash = "785cb5e2c385cdf779f3ced160e0ca85a2d12f139240ed5cee86242efd5ba565"
 metafile = true
@@ -1382,11 +1352,6 @@ hash = "273085ae95f4c7f12c96b54a25c385220b88172a1ccf85ae95c5765b049c06bc"
 metafile = true
 
 [[files]]
-file = "mods/variants-and-ventures.pw.toml"
-hash = "4e45d6b3ee689b7bf8a0b30eaf8570c6f9140222e6677d82aaf0b7de6dddf4e7"
-metafile = true
-
-[[files]]
 file = "mods/waterframes.pw.toml"
 hash = "5d5b144eb42a6a6d505c720a3f04c6b84be39165ccf08c3f1a01dabf0e75b2ac"
 metafile = true
@@ -1433,7 +1398,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "492daa3391b6079b541685db276007b286774bab3b9881505127b7aef6b3f16c"
+hash = "b253b695322802d24cde85a9cbb7b9084abff52eec5042c3123a797e0d30ab5c"
 metafile = true
 
 [[files]]
