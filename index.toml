@@ -682,11 +682,6 @@ hash = "3529bc9c3a7b54933869be1d1d84a948d091c3d6064bbb6b17874d7c153b4dca"
 metafile = true
 
 [[files]]
-file = "mods/fusion-connected-textures.pw.toml"
-hash = "86705285f3020e9be8495c1b058493bb207cf1b5d0ec5d57d15cd912c64a9fbf"
-metafile = true
-
-[[files]]
 file = "mods/gag.pw.toml"
 hash = "5959363e04f33dd25c7cbf8488012a3e019a865f9f8ec5faadbf036bc2a2fca5"
 metafile = true
@@ -1122,16 +1117,6 @@ hash = "4f90db793978fd68d26346271767de42c29549b89e6d5f5266e54b0621e71cb0"
 metafile = true
 
 [[files]]
-file = "mods/rechiseled-create.pw.toml"
-hash = "5117690c5af416704847834d5797e493206c30ba5e963a3e08123717834b29f3"
-metafile = true
-
-[[files]]
-file = "mods/rechiseled.pw.toml"
-hash = "a5baf69c2cb3f12339e20cd52b30a5d1eb46c620f65662f8452ac0e8d0bc113a"
-metafile = true
-
-[[files]]
 file = "mods/recipe-essentials-forge-fabric.pw.toml"
 hash = "fba0893c1da8c6e93beb9dac0e03228ebc108e3016a44d43c6e4d1faea2a16f2"
 metafile = true
@@ -1324,16 +1309,6 @@ metafile = true
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "dcbf8b45454dc87262ef3660d21e7fb73f035e3a65aa8fb6c1c711c63cec335d"
-metafile = true
-
-[[files]]
-file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "2e42245826ce70d4ad673addb0e5244da388841f1484f03ee5a9426ee33b2229"
-metafile = true
-
-[[files]]
-file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "83dae761dae86cc140fe971ce6a8cac9bfe0f9eb39417a71666441a2bcc634a8"
 metafile = true
 
 [[files]]
