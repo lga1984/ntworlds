@@ -102,6 +102,11 @@ hash = "97a392e10561c4c0ea4feca3aa8fd554c4e84322c5479a44da51c8ee10355dd6"
 metafile = true
 
 [[files]]
+file = "mods/ae2-jei-integration.pw.toml"
+hash = "491974dc6adba0e893fb755f55dfe833a1076ba49fdf9e4f92b8b9fa069ce9b5"
+metafile = true
+
+[[files]]
 file = "mods/ae2-network-analyser.pw.toml"
 hash = "23ca334019a3e9572ea1c462d5c4e732eb34f657111951cfb781cd52da59b08c"
 metafile = true
@@ -537,18 +542,8 @@ hash = "32078c39569bbb4b33d2d86a09cfc18a9f5b63a11d0ba2b186fd07341e422c92"
 metafile = true
 
 [[files]]
-file = "mods/emi-enchanting.pw.toml"
-hash = "e5fc842d500bcfc7b82c631150c26a011ee40588676fe85235dba3d009459d3f"
-metafile = true
-
-[[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "2bfe1523d89098c72c7072531f60eb24c6b41fea2ee294bfcb86c3c385464c08"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "8491436f99726aff4cd90644496679665f910b51822d9aac38401d0c70dfc61a"
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "11a152babe9dd0a19768145d01c521119ee95a21ce50a67162ecf445cef22900"
 metafile = true
 
 [[files]]
@@ -672,6 +667,11 @@ hash = "aaa5d15a2ebf6ae368561fc49d7994ffa5084138942095cb4ded4c8921189437"
 metafile = true
 
 [[files]]
+file = "mods/ftb-jei-extras.pw.toml"
+hash = "2d84cfd5fb3079d41713ed47e596e9986eb427f8e64906a2217cb459410c062e"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "5fb287ddb204cc2460dc51984099b0010462f781d00b2d6ed2a37046accf2560"
 metafile = true
@@ -684,11 +684,6 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "86705285f3020e9be8495c1b058493bb207cf1b5d0ec5d57d15cd912c64a9fbf"
-metafile = true
-
-[[files]]
-file = "mods/fzzy-config.pw.toml"
-hash = "0b7687a29b0dd4400e6c2db295a81b9543c7275674f8b357f57dc64b9d5f49be"
 metafile = true
 
 [[files]]
@@ -804,6 +799,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "fe1212df38dfabeee038b20ac281d31c78ab51d92b20042e5466f0ee15b6e1d1"
 metafile = true
 
 [[files]]
@@ -1349,11 +1349,6 @@ metafile = true
 [[files]]
 file = "mods/tesseract-api-neoforge.pw.toml"
 hash = "342d9216ee6f19851584f0ab9fdf905c235528babed71d0c78131eb72402ddec"
-metafile = true
-
-[[files]]
-file = "mods/tmrv.pw.toml"
-hash = "2d7ced992c8b356732f3372b329939b182b335cdbbfd5c7fec4727d67a3d720c"
 metafile = true
 
 [[files]]
