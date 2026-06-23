@@ -683,7 +683,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "0a80dbf881fac521b6453f5b057c306750c4380bf977ce865ad377c154ed95ef"
+hash = "86705285f3020e9be8495c1b058493bb207cf1b5d0ec5d57d15cd912c64a9fbf"
 metafile = true
 
 [[files]]
@@ -1118,12 +1118,12 @@ metafile = true
 
 [[files]]
 file = "mods/rechiseled-create.pw.toml"
-hash = "39131fc0691acb2c9b28a180d6a2b88efa28fc6b1360a8875b339027c0b71202"
+hash = "5117690c5af416704847834d5797e493206c30ba5e963a3e08123717834b29f3"
 metafile = true
 
 [[files]]
 file = "mods/rechiseled.pw.toml"
-hash = "7bdd9f530098c1579202d4e7e51f6dff9e6afe560b56770d94b332d9570b1e7f"
+hash = "a5baf69c2cb3f12339e20cd52b30a5d1eb46c620f65662f8452ac0e8d0bc113a"
 metafile = true
 
 [[files]]
@@ -1273,7 +1273,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "d3234425a13aa9bf9d14f5fbabdf7d380b2ea862a2645f8cbc5cb8483c0123c5"
+hash = "7b689cb30da2cc9d0a49a06a54e1038403948f638743ce02f7f20e18a9858d66"
 metafile = true
 
 [[files]]
@@ -1288,7 +1288,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "e4ffd0590c460253cd80d4e27839cd3b43b98605eeaf3f5e46ca2a78715170ca"
+hash = "9d2acdad066c894459dfe7f24567dd585b00be7529aef5216a5cd6338c697f04"
 metafile = true
 
 [[files]]
