@@ -1,0 +1,13 @@
+name = "IrisSearch"
+filename = "IrisSearch-1.1.0-neoforge.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "6a059c3369ec5720b65060faf07db13b86e9bf0e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8304875
+project-id = 1583035
