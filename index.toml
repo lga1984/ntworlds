@@ -311,11 +311,6 @@ hash = "86cf2ae835b8f3d981af2e88a4d19fdc3dc4f5aa3904c6ba30e25d77d3e9fcbb"
 metafile = true
 
 [[files]]
-file = "mods/cat-loaf.pw.toml"
-hash = "2aba24a3d2fce17a7ff9673398ed4a0bc52e200a5c46d78ecde4cdd3f62feafb"
-metafile = true
-
-[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "14f862ceab11545e0a446df8c91c95ae7434ca4975db1357ad2001b6ec321e45"
 metafile = true
@@ -548,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "11a152babe9dd0a19768145d01c521119ee95a21ce50a67162ecf445cef22900"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-cats.pw.toml"
+hash = "9f659211c935980f3fbb30ff956bc2d5ae684a87fe8d6a1fe746f0e258c7c95f"
 metafile = true
 
 [[files]]
@@ -1422,7 +1422,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "b253b695322802d24cde85a9cbb7b9084abff52eec5042c3123a797e0d30ab5c"
+hash = "492daa3391b6079b541685db276007b286774bab3b9881505127b7aef6b3f16c"
 metafile = true
 
 [[files]]
