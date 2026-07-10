@@ -1,13 +1,13 @@
 name = "[UNOFFICIAL] TaCZ NeoForge Port"
-filename = "tacz-neoforge-1.21.1-1.1.8-hotfix-r1.jar"
+filename = "tacz-neoforge-1.21.1-1.1.8-hotfix-r3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "35e912ce422c8ea41eb9a154b0117334a0c348c7"
+hash = "030fbd2b0cb5900ad216321a66f163d024d522f4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8167430
+file-id = 8387838
 project-id = 1353462
