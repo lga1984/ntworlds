@@ -69,6 +69,10 @@ file = "config/securitycraft-client.toml"
 hash = "76ece0728cb7f2c58c0fe1e306ae645a04dfc8dc6e66bd8bcc9e34fb1609a5f0"
 
 [[files]]
+file = "config/simplebackups-common.toml"
+hash = "de644bb99b99d490c0c8dffde61763f6a4e6157d99defd5bb2d8c08f7dda243b"
+
+[[files]]
 file = "config/smsn.json"
 hash = "925db995db8a8ba895ed9852f99faa585658e86d0e1dfd34a410563446879af4"
 
