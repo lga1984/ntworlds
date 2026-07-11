@@ -1,0 +1,13 @@
+name = "Just Enough Recipe Sharing (JERS)"
+filename = "justenoughrecipesharing-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "73a28225d8c6786fb5b3271564aec210ec1318fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8318847
+project-id = 1511109
