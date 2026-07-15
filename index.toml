@@ -120,11 +120,6 @@ hash = "4ffc80b872587b06e5d7e20efa4150de1d9baca14d76a67248c371455b368595"
 metafile = true
 
 [[files]]
-file = "mods/baguettelib.pw.toml"
-hash = "1a52b3a6071fa86dc0854189e110e7dd6c27c0944856fee39a781f58275e1cdd"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "f1518b9325a7fa419cfb856774ab3065e12b3d6c467ae566a8e07d7cb9929857"
 metafile = true
