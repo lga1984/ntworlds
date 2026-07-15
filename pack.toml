@@ -1,12 +1,12 @@
 name = "NTWorld 2"
 author = "NTUSER"
-version = "2.0.2"
+version = "2.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d2609c8f57f5768997ae0ecbf5221861c1d1d2a4008897984dc600ef6eec57bf"
+hash = "3711611586cdc6a527ed8f2f6d68a535372174ac930f95ea235e3795c6a0bf2f"
 
 [versions]
 minecraft = "1.21.1"

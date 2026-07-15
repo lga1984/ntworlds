@@ -350,6 +350,11 @@ hash = "75631c603e37f8a2be5aaf51843a3485fad26b2d0f92ae8b5e850c714231f973"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-recipe-sharing.pw.toml"
+hash = "4d62ddde39a2076832e52b981c1c927e469eb1354b1c0e6712bec3931f73dd9c"
+metafile = true
+
+[[files]]
 file = "mods/just-zoom.pw.toml"
 hash = "9cf35d5b0b7ab064ea54e393af17304e5264ee6a59f5224fb5b79ad3c45ea22f"
 metafile = true
