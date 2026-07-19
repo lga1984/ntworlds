@@ -1,13 +1,13 @@
 name = "Better Climbing"
-filename = "better_climbing-neoforge-4.jar"
+filename = "better_climbing-neoforge-6.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "3e5f07639bab5084b492cd7d66b9bfea740ec244"
+hash = "b3a4585a90237dddb444e1f2b60cafecf2bf3f8f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5514197
+file-id = 8120242
 project-id = 655619

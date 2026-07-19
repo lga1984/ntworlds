@@ -1,13 +1,13 @@
 name = "Easy Piglins"
-filename = "easy-piglins-neoforge-1.21.1-1.1.0.jar"
+filename = "easy-piglins-neoforge-1.1.7+26.1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b8afa0340180509abd7746b71e296a457bcbf25c"
+hash = "191c141629cd3514f49e04356bf03aec953ca8f1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6213612
+file-id = 7904365
 project-id = 419372
