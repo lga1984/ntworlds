@@ -246,6 +246,11 @@ hash = "dcce90e8b38c0e5e5e93833d606d3b78d1571ca93a7b28040480462d43e26a44"
 metafile = true
 
 [[files]]
+file = "mods/pantry-for-blockheads.pw.toml"
+hash = "33d747d8f16e7ee3bfc8e741398c87df8379f5303b57eb6e9b735aa82dce70eb"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "3660ac030cfc44d444d86d10b94d8018c1dc620fccd97fbcc2d50924f30b839a"
 metafile = true
@@ -313,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "b749775ec1e105ebf162a514bc76500e9e135e05dd1b3bfd5337cfc69dc58f67"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "efe72070d298a30b3945cdd8e0d7366acfb3b532dd58dfcce3eec10a5c668d1d"
 metafile = true
 
 [[files]]

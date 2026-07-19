@@ -1,0 +1,13 @@
+name = "Pantry for Blockheads"
+filename = "pantryforblockheads-neoforge-26.2-26.2.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4c33bf820c09127812beff0f8ee86ca038f3a07e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8449466
+project-id = 1514716
