@@ -1,13 +1,13 @@
 name = "Extreme sound muffler - (Neo)Forge"
-filename = "ExtremeSoundMuffler-3.58.1_NeoForge-26.1.jar"
+filename = "ExtremeSoundMuffler-3.58.1_NeoForge-26.2.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "6c1ee5f3963ba9935f33e5e72c18c59b38661c49"
+hash = "0b4025ac77ef46c7b2f4f676483017f28fd766c6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8069457
+file-id = 8261169
 project-id = 363363

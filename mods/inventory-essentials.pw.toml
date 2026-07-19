@@ -1,13 +1,13 @@
 name = "Inventory Essentials"
-filename = "inventoryessentials-neoforge-26.1.2-26.1.2.4.jar"
+filename = "inventoryessentials-neoforge-26.2-26.2.0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "97e09b66e0593b178551757fa14974702d7c123a"
+hash = "1811f3a17a9bbd462590f262ae02c0c1f68ba7a5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8362291
+file-id = 8362297
 project-id = 368825

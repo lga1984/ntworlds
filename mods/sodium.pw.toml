@@ -1,13 +1,13 @@
 name = "Sodium"
-filename = "sodium-neoforge-0.9.1+mc26.1.2.jar"
+filename = "sodium-neoforge-0.9.1+mc26.2.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "f369407251bdeb3b91d3e67fbbc133263b0c9078"
+hash = "12b35a942b7e788b4d95824500a5e25d555b51c1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8396481
+file-id = 8396429
 project-id = 394468
