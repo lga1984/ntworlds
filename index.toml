@@ -6,6 +6,11 @@ hash = "ff1e45f1f35c5ab2125e4e8d937ba6dc65572489ffc86444f483e7653f74552e"
 metafile = true
 
 [[files]]
+file = "mods/amber-lib.pw.toml"
+hash = "c9e87f9a86d71e585af1f473cced7daaa13f81bff9ff78993206aa65025033b2"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "42786454eefc0f141c1a75d96900b57aef3616f558daf50ef74bd599ca5df145"
 metafile = true
@@ -151,8 +156,8 @@ hash = "65b7a40f19309f35a82926e7362b45f833854c1619d074354fb0dfa6b15a9aa2"
 metafile = true
 
 [[files]]
-file = "mods/justhammers.pw.toml"
-hash = "dd0656bd5f39d9781364358198c51f142988ac27169a373642c4b8891c594574"
+file = "mods/konfig.pw.toml"
+hash = "a8fe3afff68b447029d085d19d2a9d8379f72e77d0f9cd2d0ce296aa0ea437dd"
 metafile = true
 
 [[files]]
@@ -163,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "ec82e5f0fcfb1f865ce0769e4cddbdf6d188f5f86f3247b38988f00dd2dd055d"
+metafile = true
+
+[[files]]
+file = "mods/liteminer.pw.toml"
+hash = "ac5386b884e92b2b6ce74228556ee1dd319cb2ca4cef3d3b233a2e35e76dc54d"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Liteminer"
+filename = "liteminer-neoforge-4.1.1+26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "78b98e22c43f16cad369750e9eecbaed82e42c19"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8313142
+project-id = 1133225

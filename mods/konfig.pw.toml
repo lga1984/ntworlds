@@ -1,0 +1,13 @@
+name = "Konfig"
+filename = "konfig-neoforge-0.5.0+26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "60d0b304fa7259ccd09845dbe6e235b87a204e92"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8308823
+project-id = 1479633
