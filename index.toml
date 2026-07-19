@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "3f8b7c88c991fe94c9ffcc451243cfb3370b9c65fe2dc4db5b03dc5980bb276a"
+hash = "3c20a0801a1a000e6f55deb28d3c9e6165b4370bff93c7d59b054413f72272e9"
 metafile = true
 
 [[files]]
@@ -466,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "bca4d23861040d069b25d0e4bb0c2c763a4e4f54ac51b513c22462253e8cd340"
+hash = "b0364f6b95f6ed837239c232bad0e2d7317e58f0e4c040e66a4f533239d5775e"
 metafile = true
 
 [[files]]
@@ -581,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "a4556f8b747aaec7ecc23076486df4dc44bdea6d6314db136e37f4737a14b989"
+hash = "2fe821faf9b627c75225d34d8c9637acdcb8cec987696280e592203e000a5c49"
 metafile = true
 
 [[files]]
@@ -621,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "ea7c72bb146541a5c244b34eac66e74fd05c51a8286d283a2308874517f587df"
+hash = "3956ff6429c1af8ccc97297368b9041df7603e1c87de857e502985c06fddc2dd"
 metafile = true
 
 [[files]]
@@ -636,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "f2f36c9b9ac6fbde3485e0c8f30bf2f5aab234db05894dbf6c9a2858d708c567"
+hash = "8aee53cf7131d26c8fee189a452db6005b1a739e6010a00f632a92662549b3ab"
 metafile = true
 
 [[files]]
@@ -646,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "04b3be3c277aae9b433691018e1d0dfc35f883356d539da58c8e8186f6a038ca"
+hash = "daafacba438d96ad88d41f61e7fe46a417d3cf84ecb1f9c25a4ebf7ce69314bc"
 metafile = true
 
 [[files]]
@@ -681,7 +681,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "a8b98750a51ba1ef7cd98be2d4fc053bfd93af8df1410708a3219b1aeab71ac0"
+hash = "e2d2260741f435459f98861cb6fce32b00af5762c15daab8704eb5a0b8c33003"
 metafile = true
 
 [[files]]
@@ -691,10 +691,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "b1e493739237b42f5126b35f801d1cd550edfffd1c5a42c8e3e36bc1ad443f52"
+hash = "03b30d68893aff0507d36044ab3b43e586f4412274b5de0abe193b9f4a754905"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "d7741a98f8178b9c32f62b0eb334cac2961ae95bfe5fdcec060918bbc9b0311c"
+hash = "210cce3a74344d8ccbe0023ea0399b5573c5e622ae970d0cf81b753b18f1fc3f"
 metafile = true
