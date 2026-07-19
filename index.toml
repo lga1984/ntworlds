@@ -121,6 +121,11 @@ hash = "82cd6982e268916c73ec4f5f1a34e97d2899e42d294bbcba0d2171db6d2c9bb2"
 metafile = true
 
 [[files]]
+file = "mods/goblin-traders.pw.toml"
+hash = "4bad3dcd67459abb37482a1ba7edd9f8f3c0d1e5055d5c457f531b61f354c897"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "81dc02780e73af1d7b0a689f280ea3de1430177cce610cce78ac9ba83a9ecf27"
 metafile = true
@@ -146,6 +151,11 @@ hash = "65b7a40f19309f35a82926e7362b45f833854c1619d074354fb0dfa6b15a9aa2"
 metafile = true
 
 [[files]]
+file = "mods/justhammers.pw.toml"
+hash = "dd0656bd5f39d9781364358198c51f142988ac27169a373642c4b8891c594574"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "e4c0dd40b2251802a4518b168dc846b4ffc410432a2e6a2df4978fcdf6f078ed"
 metafile = true
@@ -153,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "ec82e5f0fcfb1f865ce0769e4cddbdf6d188f5f86f3247b38988f00dd2dd055d"
+metafile = true
+
+[[files]]
+file = "mods/little-joys.pw.toml"
+hash = "e1ec0772ba57a29290574107e63b914a85ec8a51c0ce4ec2155fa53096bfee33"
 metafile = true
 
 [[files]]
@@ -226,6 +241,11 @@ hash = "267e0992ba5bb3176b0751a828e093c426c5d5f17618f12ab2bdb33a61df3e5a"
 metafile = true
 
 [[files]]
+file = "mods/modular-routers.pw.toml"
+hash = "3f1fca2fa231e7226deca5e25f930a0bc6efc6ef0b712124696b8f14acc7ce22"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "98bf3965fccd6f6b8e1f03cc906bab3905132a1e1ff91d6c612274e083754edf"
 metafile = true
@@ -253,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "3660ac030cfc44d444d86d10b94d8018c1dc620fccd97fbcc2d50924f30b839a"
+metafile = true
+
+[[files]]
+file = "mods/reap-mod.pw.toml"
+hash = "79c75af72ece3573fc6916d311e865f7b5600d9fd3d1d5ad77b3c1f64bd21bf3"
 metafile = true
 
 [[files]]

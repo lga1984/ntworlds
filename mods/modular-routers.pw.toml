@@ -1,0 +1,13 @@
+name = "Modular Routers"
+filename = "modular-routers-26.2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2cf5a30fb3bc03a4975cc9a6df6afcf4b8c0b905"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8281270
+project-id = 250294
