@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "4fe5f307c28d2f1df8fa607a9edf0627993d369a15905acaaff22d4571c598d7"
+hash = "4e4a841c8c2f3b876f64841589e8787eee9d8bc61cd841d996320206573d79e0"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "9a689aebc7d2c987d1d902d83a97ccb4e8bdfd0f5da90c376c32de5129a3ea7f"
+hash = "0d7a54a18caa8bddcfa79f53baee6827b5327b784a30dc9c42497dd7e96a30d8"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "801f7e0d55e3f937b3b13b29f5d820043d157ef624d00c7b3924c5e3ea6e4845"
+hash = "6643791d758a6973ea809283f055b72b767e94973d1f3b8b4f5a3ee80bfa2e5f"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "a369ace9faa194841f5b58beacf12aebb539756d8c1ea0d90d47e55a408b266f"
+hash = "1678c1d93b6f6f7673f464a64369742495addc0abfd69edc04b6a797f56db244"
 metafile = true
 
 [[files]]
