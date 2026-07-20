@@ -366,6 +366,11 @@ hash = "71187dd503840a97b78f309b3d0dd45c30ac6ac0a9078d8acf8ab15fdef4d135"
 metafile = true
 
 [[files]]
+file = "mods/toms-trading-network.pw.toml"
+hash = "70d6ee6fec142fa70623cc63ff19cbcd6e13b7ac1c1b9547bc346a6ba68c10ed"
+metafile = true
+
+[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "efe72070d298a30b3945cdd8e0d7366acfb3b532dd58dfcce3eec10a5c668d1d"
 metafile = true
