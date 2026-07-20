@@ -286,11 +286,6 @@ hash = "33d747d8f16e7ee3bfc8e741398c87df8379f5303b57eb6e9b735aa82dce70eb"
 metafile = true
 
 [[files]]
-file = "mods/pinghud.pw.toml"
-hash = "fb4a38bd5260e0219f0455f664167bc0ac3dd97fe14e1ca7720f2ead53ca3c7a"
-metafile = true
-
-[[files]]
 file = "mods/prickle.pw.toml"
 hash = "3660ac030cfc44d444d86d10b94d8018c1dc620fccd97fbcc2d50924f30b839a"
 metafile = true
