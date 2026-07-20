@@ -131,6 +131,11 @@ hash = "4bad3dcd67459abb37482a1ba7edd9f8f3c0d1e5055d5c457f531b61f354c897"
 metafile = true
 
 [[files]]
+file = "mods/guard-villagers.pw.toml"
+hash = "9c3ca1825ed44ab25d026b30cc44695d5d6228d65a33d8f80006ca7bfa3150f7"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "81dc02780e73af1d7b0a689f280ea3de1430177cce610cce78ac9ba83a9ecf27"
 metafile = true
@@ -353,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "b749775ec1e105ebf162a514bc76500e9e135e05dd1b3bfd5337cfc69dc58f67"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "71187dd503840a97b78f309b3d0dd45c30ac6ac0a9078d8acf8ab15fdef4d135"
 metafile = true
 
 [[files]]
