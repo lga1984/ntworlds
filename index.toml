@@ -301,6 +301,11 @@ hash = "858017f4246ef5bb455803cd1b8dafd273fc970ae60bbf18e1a833c6a179a02d"
 metafile = true
 
 [[files]]
+file = "mods/reliquary-reincarnations.pw.toml"
+hash = "ca8e23b5c7a906bb6ce241a17ab707ac893edf18e36aa13368b1d9c4a72b878c"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "1775088d3e8adcaa79306595828d5d32790f64aa0a2a041728dfef035ef53e1f"
 metafile = true
