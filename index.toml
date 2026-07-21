@@ -256,6 +256,11 @@ hash = "267e0992ba5bb3176b0751a828e093c426c5d5f17618f12ab2bdb33a61df3e5a"
 metafile = true
 
 [[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "4718f584858988ee73b72bc19d81d3e7934194b47820a50da60f9aaaf22cd74a"
+metafile = true
+
+[[files]]
 file = "mods/modular-routers.pw.toml"
 hash = "3f1fca2fa231e7226deca5e25f930a0bc6efc6ef0b712124696b8f14acc7ce22"
 metafile = true
