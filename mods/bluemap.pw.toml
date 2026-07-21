@@ -1,0 +1,13 @@
+name = "BlueMap"
+filename = "bluemap-5.22-neoforge.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "e5fd73fc36dadb36b54b29ca639950a14b148ebb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8264319
+project-id = 406463
