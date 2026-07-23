@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "804eab5347ef87061edc77540016335ca9e40a604dde76e2010de4473d22de21"
+hash = "1734cbdf631a96afebec45e0f40ae8a9da58df24594fde2a8b741ca01b9e224c"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "73a736a1da598c0e3299b281d48de7b5ec0069c646c1f3843b7e3258ccd70765"
+hash = "9093e589d7dce2f0ac5b5c2faf5a89a6bda4b358f15eadd21f23b3654d1fe31e"
 metafile = true
 
 [[files]]
@@ -352,12 +352,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "c80c33665bb7ecd1bbae9fcb9e7935fff53fba3c66db81928c88bfc8218fbb14"
+hash = "2ec6325da475a49038b52cc64703daa5d6f36e45fe6db04583cb995b7c3d0e32"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "6643791d758a6973ea809283f055b72b767e94973d1f3b8b4f5a3ee80bfa2e5f"
+hash = "80ceb1e08f01552139271eb3c864fdbf5e659d4cc2e70a8515b867b999c43f9d"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "1678c1d93b6f6f7673f464a64369742495addc0abfd69edc04b6a797f56db244"
+hash = "10556fee83aa9f8d985ccc053f605d29f4d8f3a31302e968f0adb56acf7f1b18"
 metafile = true
 
 [[files]]
