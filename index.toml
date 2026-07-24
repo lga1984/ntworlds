@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "71187dd503840a97b78f309b3d0dd45c30ac6ac0a9078d8acf8ab15fdef4d135"
+hash = "6a006c716b8314c616b9bfd70d82d0b56488be8c7bfb1cf0c96bb781cf9750fc"
 metafile = true
 
 [[files]]
