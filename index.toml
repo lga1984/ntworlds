@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "18a352d845b4e1a1af040144e0a14d6050c9ae98252d6ab5527d2f986d90b6ad"
+hash = "c66d5d49bb14a50142011eff98ba1d8adb87406366644c9fc940a1bcfe96284f"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
-hash = "59b0008a14e052c7b63aa32706dfec3397d787727f3e192422a2fc63de681249"
+hash = "68b484c330c80224f91ed405be02be573f340e97952dde3de02469709897ba64"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "c6e0d0b5e429478d49e0ed95d92a899dc678d63002ba95f71c7cc69da5bf0146"
+hash = "103f7e26deeaa45cf972d959b5d8ba8ddd82282eb105c789cb2eb29d3f601d78"
 metafile = true
 
 [[files]]
