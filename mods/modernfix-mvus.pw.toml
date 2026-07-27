@@ -1,13 +1,13 @@
 name = "ModernFix-mVUS"
-filename = "modernfix-neoforge-5.27.19+mc26.2.jar"
+filename = "modernfix-neoforge-5.27.20+mc26.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b72c80ef13ee7ffc1c2a3f7545a773d47cac508e"
+hash = "bbebb8fe2f2e66eccdc79dd976eb03f992466d28"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8362832
+file-id = 8518357
 project-id = 1367508

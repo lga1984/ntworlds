@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "c66d5d49bb14a50142011eff98ba1d8adb87406366644c9fc940a1bcfe96284f"
+hash = "6482179de899ad1b33309a2cb72f7d8081ffb22c3738b52a53d079928d77487d"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "4718f584858988ee73b72bc19d81d3e7934194b47820a50da60f9aaaf22cd74a"
+hash = "6d27e10345e0b5c248cf90193d1ced8dea1735624e48ae29433a6e5261b8019a"
 metafile = true
 
 [[files]]
