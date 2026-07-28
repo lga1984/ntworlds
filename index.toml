@@ -41,10 +41,6 @@ file = "config/securitycraft-client.toml"
 hash = "76ece0728cb7f2c58c0fe1e306ae645a04dfc8dc6e66bd8bcc9e34fb1609a5f0"
 
 [[files]]
-file = "config/simplebackups-common.toml"
-hash = "de644bb99b99d490c0c8dffde61763f6a4e6157d99defd5bb2d8c08f7dda243b"
-
-[[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
 hash = "f1ff62b22cfc97486d00e8bd3367a3207f0a8da235e7b365c5aa2a54e3f8dc25"
 
