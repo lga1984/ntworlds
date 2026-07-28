@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "ec28c256053e286d9dc7c66127704a86df5577ea40f9fb0b42e5f6c827e244be"
+hash = "3a23148ce6c98a4996b30e17ede1acafdfc5c380a822e5bbfe5099e7c5689545"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "0d7a54a18caa8bddcfa79f53baee6827b5327b784a30dc9c42497dd7e96a30d8"
+hash = "97f6adf3a6ebf984ac2b6d2a85ac8fc2b77c6a651910452dcf7c48a89d8e309a"
 metafile = true
 
 [[files]]
