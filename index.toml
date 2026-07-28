@@ -6,6 +6,11 @@ hash = "ff1e45f1f35c5ab2125e4e8d937ba6dc65572489ffc86444f483e7653f74552e"
 metafile = true
 
 [[files]]
+file = "mods/advanced-fishing.pw.toml"
+hash = "d2574f8619ed9ec268422935a8f725499a0187692546c4e3efad6bf1155605bf"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "42786454eefc0f141c1a75d96900b57aef3616f558daf50ef74bd599ca5df145"
 metafile = true

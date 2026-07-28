@@ -1,0 +1,13 @@
+name = "Advanced Fishing"
+filename = "Advanced-Fishing-26.2-1.6.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dd4f13c3e167832f6dd3d7cbfa20acc68f43297b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8492699
+project-id = 303541
