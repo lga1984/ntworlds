@@ -8,8 +8,11 @@
     "/mods/*.jar",
     "/kubejs/**",
     "/emotes/*",
+    "!/mods/bluemap-*.jar",
     "!/mods/CraterLib-*.jar",
-    "!/mods/SimpleDiscordLink-*.jar"
+    "!/mods/SimpleBackups-*.jar",
+    "!/mods/SimpleDiscordLink-*.jar",
+    "!/mods/worldedit-*.jar"
   ],
   "allowEditsInFiles": [
     "/config/**",
