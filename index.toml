@@ -17,6 +17,10 @@ file = "config/ae2-common.toml"
 hash = "ecf46395c29f1fdd169aa0853364acc349e6ebe3ce10a969b3dbc90177bc97f4"
 
 [[files]]
+file = "config/bluemap/webserver.conf"
+hash = "7c86e02ad1f022048195b5cc59ab3fb2ee4b4398b2705b97f98e949f606aa23c"
+
+[[files]]
 file = "config/computercraft-server.toml"
 hash = "c2aa8857aa623171867ccfc28b8ea85a3ee86d0feba8c5e62a3e06e5b86b7fd9"
 
