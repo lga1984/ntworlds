@@ -1,0 +1,13 @@
+name = "Explorer's Compass"
+filename = "ExplorersCompass-26.2-3.3.0-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2a42d119cdfb093f4b365f1d4dcabc485b17687c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8262917
+project-id = 491794

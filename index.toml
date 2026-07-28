@@ -116,6 +116,11 @@ hash = "13d57a45882f147604c1ab1eb3e7f9e21eae298f0746f925396096f7b8f2e9b1"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "640ca3a58e4d1ea64f9da9825bc2270d19f6e8792a36d8e5c4316899c3af29cf"
+metafile = true
+
+[[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
 hash = "84773a784a1cb8200d93269aa7aeed350c513c4858b5ce8224e8781a3938f65a"
 metafile = true
