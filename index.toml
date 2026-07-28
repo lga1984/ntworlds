@@ -120,6 +120,11 @@ hash = "4ffc80b872587b06e5d7e20efa4150de1d9baca14d76a67248c371455b368595"
 metafile = true
 
 [[files]]
+file = "mods/backported-minecarts.pw.toml"
+hash = "9c607f330509f4b226cb522cb5fc63967bc83acd0ddd10bc3eba5834c63f9719"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "f1518b9325a7fa419cfb856774ab3065e12b3d6c467ae566a8e07d7cb9929857"
 metafile = true
@@ -215,6 +220,11 @@ hash = "8ff227007d3ea2f499193f04410000892bcc35b87572ae74d3f19494c6572368"
 metafile = true
 
 [[files]]
+file = "mods/crafting-on-a-stick.pw.toml"
+hash = "9e1fd510d8a87878dd151638ca19474493c814e3576ad3900006b265c28a02df"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "6ad424af2b8614fe9547f622a5b3d84d003eeffc6284a517aea90e377958a17a"
 metafile = true
@@ -280,6 +290,11 @@ hash = "9e808c1647e29fde564148337ecde37f7c6a183f38ec192d4e3854ee715a5467"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "e206e53e79c196615bebfc9f5dfa943c11c1361e1c7dc4f8f952c86b95e0f0ca"
+metafile = true
+
+[[files]]
 file = "mods/exposure-polaroid.pw.toml"
 hash = "75e0914a4efda23e233a8e61ffa350256970fcaae81998d7a9d94b113efb1dba"
 metafile = true
@@ -320,6 +335,21 @@ hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
 metafile = true
 
 [[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "6fa984dc1b5905ae909b417ed1cd92d6b536ba4832ed8c8d95aa9d424ad789df"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "4c996e783683f1a51df88d6af6b57881ff095c8801b0f5ab2969d0d121c137f8"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "3529bc9c3a7b54933869be1d1d84a948d091c3d6064bbb6b17874d7c153b4dca"
+metafile = true
+
+[[files]]
 file = "mods/game-discs.pw.toml"
 hash = "8b41a10c4d19d51df02f43d935c84d3c114ec06d67deb8de5a838b90513c23bf"
 metafile = true
@@ -327,6 +357,16 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "65ac18556f91ebb4f303a39731e93e94ffa94ddc690b0fbf35346bdcb3b05919"
+metafile = true
+
+[[files]]
+file = "mods/goblin-traders.pw.toml"
+hash = "29abe36be13fe414e13125140f1c4fe373f7daf79a11ba511e0f77a47ea7f946"
+metafile = true
+
+[[files]]
+file = "mods/guard-villagers.pw.toml"
+hash = "6424aa354655682483ec2a0db6b6f24b1f09b349d93d9e6bfeeb73733fdfa759"
 metafile = true
 
 [[files]]
@@ -377,6 +417,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "dd331e2defccb518233c14dd551cc7983b1b3004c290ded6b8da108b8d4e91bb"
+metafile = true
+
+[[files]]
+file = "mods/little-joys.pw.toml"
+hash = "d2c98d41e29eed41882f39f97999b19e14218740e0da2a4cc43f4fe265798a7e"
 metafile = true
 
 [[files]]
@@ -465,6 +510,11 @@ hash = "290b13afab94146d1159d821b73c8c98f5299b4df75fd28e826f9fd409e9bb40"
 metafile = true
 
 [[files]]
+file = "mods/mekanistic-routers.pw.toml"
+hash = "e0d9755760c180395cbddb1cf18278e9d2b736b692390ab44dc05d56509a15ee"
+metafile = true
+
+[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "85ab3b0caa411967eb8461901877090a88c6d78a1e53fe7e2a91e6bd2673456b"
 metafile = true
@@ -472,6 +522,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "b0364f6b95f6ed837239c232bad0e2d7317e58f0e4c040e66a4f533239d5775e"
+metafile = true
+
+[[files]]
+file = "mods/modular-routers.pw.toml"
+hash = "bbd0fee939a90c478aa404630629a49ab764ab7dd48ca6c9b928889769c32a89"
 metafile = true
 
 [[files]]
@@ -542,6 +597,11 @@ metafile = true
 [[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "a63a24d0d6357d1ca0f72dc60351ff2c18d708be6ee1f6f8f9dcfd5f25983ceb"
+metafile = true
+
+[[files]]
+file = "mods/reliquary-reincarnations.pw.toml"
+hash = "68956c2ee95dc7aad1b81620bb7c352d7660776fc84a5864ad2f49139e5142b9"
 metafile = true
 
 [[files]]
@@ -662,6 +722,16 @@ metafile = true
 [[files]]
 file = "mods/toms-peripherals.pw.toml"
 hash = "5cfe1c2e3765904af94d02c403a6ddce1f59354adb25aa7267af681ead5798b1"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "9a37b73309ab863349a61484ff125e3e266827e0741804aecc00da910357dd3f"
+metafile = true
+
+[[files]]
+file = "mods/toms-trading-network.pw.toml"
+hash = "2bd09462fc726f4d4211bb900b9ad2f05791ee83f7d0e5898c96a9fc12ea8ab9"
 metafile = true
 
 [[files]]
