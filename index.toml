@@ -266,11 +266,6 @@ hash = "6d27e10345e0b5c248cf90193d1ced8dea1735624e48ae29433a6e5261b8019a"
 metafile = true
 
 [[files]]
-file = "mods/modular-routers.pw.toml"
-hash = "3f1fca2fa231e7226deca5e25f930a0bc6efc6ef0b712124696b8f14acc7ce22"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "98bf3965fccd6f6b8e1f03cc906bab3905132a1e1ff91d6c612274e083754edf"
 metafile = true
@@ -348,26 +343,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "1d5d0ac89b0c1b9b8fa8230b483593aefd072a8a12b08aca5e694caca1dc40f6"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-backpacks.pw.toml"
-hash = "a9a3d63054afffe7c8c65af07890d372cec58657212f59448b0cb9b00d38928e"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-core.pw.toml"
-hash = "adbf30d967c59ccdd8007e32b6f45fb64e389d26db8a6c15ac00453a8fa4b144"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-item-actions.pw.toml"
-hash = "1bb20e2a47887cfea2660101e3ee5f68dedafc9d28ac2fbbb6d4d85943787891"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-storage.pw.toml"
-hash = "103f7e26deeaa45cf972d959b5d8ba8ddd82282eb105c789cb2eb29d3f601d78"
 metafile = true
 
 [[files]]
