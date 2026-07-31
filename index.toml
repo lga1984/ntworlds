@@ -101,6 +101,11 @@ hash = "b464217ad7f49fc79d56f149eef3b66d41fb8db560a17539ac978e196a2d4c3e"
 metafile = true
 
 [[files]]
+file = "mods/croptopia.pw.toml"
+hash = "17b17b486b954d9397cf8ab2dae03d8865d4ca767e4dc4b7ce6830652744366e"
+metafile = true
+
+[[files]]
 file = "mods/easy-piglins.pw.toml"
 hash = "2560b1aa3768b176136b36590aadccd3e246807c7e44867b10a3298b75e11a2e"
 metafile = true
@@ -113,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "13d57a45882f147604c1ab1eb3e7f9e21eae298f0746f925396096f7b8f2e9b1"
+metafile = true
+
+[[files]]
+file = "mods/epherolib.pw.toml"
+hash = "8feaea379fe92064daa3ab650463d801cac354a53e57bd81368c9a3eabefab63"
 metafile = true
 
 [[files]]
