@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "83469ffd7e3227dbc63afe0becc589dc1590508e19fcd8cd3cab311e8781282d"
+hash = "65c3597be7f5bb04212d06e46cc3f61da0de77833189d48cc2f8d521d126de53"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/farming-for-blockheads.pw.toml"
-hash = "1e3560c06093e97b67d8d3b33aa5c4b331831fc14335dfb6d4553b9965b67fd1"
+hash = "e53a44d52df5b792b3868abfec9a8ad3eca8b19cac55c45ee548cc6040cfcc36"
 metafile = true
 
 [[files]]
