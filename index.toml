@@ -372,12 +372,12 @@ metafile = true
 
 [[files]]
 file = "mods/trashslot.pw.toml"
-hash = "efe72070d298a30b3945cdd8e0d7366acfb3b532dd58dfcce3eec10a5c668d1d"
+hash = "7abd2eaad3b70b396d8271cac1c4f2148598bf8a68b1daabd5ccdf4f8656926b"
 metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "014f37668c9187aa30040108382aa20049afb750741a96636580b046b30f89ef"
+hash = "fc1f5719c8e60291d80849f9f79105150619d26b3aa45fd1327f89f947b8a76a"
 metafile = true
 
 [[files]]
