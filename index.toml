@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "a4bc7212aee735d5d6735e2045ca25620ca1d69f592d2b152fd94123e2f575b8"
+hash = "18e4574604749e0cbbb891cd208e219a784c88cf7c194858a8c51292f1e79db9"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "1d5d0ac89b0c1b9b8fa8230b483593aefd072a8a12b08aca5e694caca1dc40f6"
+hash = "0cd1f9977c0cae93fa8cc24ff8874bbe691e0355fb19a69e569b2f0337ae79e8"
 metafile = true
 
 [[files]]
