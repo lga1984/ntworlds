@@ -296,6 +296,11 @@ hash = "34d5b5834cba5780b8bfefa7f79e9f26e0bce2059ce65b8c1ce26330b1459741"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "fa840337b7eaebad0135c9de58776da89eeb9e18ab3a576a6c6fd682cf2e8acb"
+metafile = true
+
+[[files]]
 file = "mods/openblocks-elevator.pw.toml"
 hash = "dcce90e8b38c0e5e5e93833d606d3b78d1571ca93a7b28040480462d43e26a44"
 metafile = true
