@@ -206,6 +206,11 @@ hash = "97f6adf3a6ebf984ac2b6d2a85ac8fc2b77c6a651910452dcf7c48a89d8e309a"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "18d6264d1a090785d44b874b27d069baab47a536256cb67f2de9345c797b3571"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "e53e1ff26f149e5c76069d3658d067f1e576d57dd15c7141412d86f92fbc9643"
 metafile = true
@@ -378,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "fc1f5719c8e60291d80849f9f79105150619d26b3aa45fd1327f89f947b8a76a"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "84ae476981b08242e563af7d0be4edc0f19b3452bad7cc69370f53bd05daead0"
 metafile = true
 
 [[files]]
