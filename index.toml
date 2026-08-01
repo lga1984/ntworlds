@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/shogi.pw.toml"
-hash = "2da6decbc68b74d2c22124caccf8212c4865ee54546984f36e6c4a562bf18ec2"
+hash = "a899faf10fa36427825d89b11fe2ac4dc308fa5e3dc7e67de512f342a05ad2bf"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0cd1f9977c0cae93fa8cc24ff8874bbe691e0355fb19a69e569b2f0337ae79e8"
+hash = "506bc0508c99130ba18933335e1349eb6d6980e7122e9ca9d14b047f2faad619"
 metafile = true
 
 [[files]]
