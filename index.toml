@@ -16,6 +16,16 @@ hash = "8be50c4e769f3c0da36c64ebe7e590283fe9cdfd571d2aa7341988c299f792a9"
 metafile = true
 
 [[files]]
+file = "mods/better-advanced-tooltips.pw.toml"
+hash = "7a529047843ae51f3068a44d279ce807e48acd8fff268516c0c9fb2715ddd9aa"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "c0226eddc81b893fa8e062f083867cd6288e9a53e290d297a470f06bf6be355e"
+metafile = true
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "5ded0d675f8df0d702755faef1a2989bf529841375ce8484b31489547911af69"
 metafile = true
@@ -118,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "c2d1674a4d1466e09946819d58436b555256613d2cbcb8f12e26d950bd76d8ef"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "251363ba098c943081743958b9f8042b4ff10c3f74b07d7f40465c3bc37b6b68"
 metafile = true
 
 [[files]]
@@ -231,6 +246,11 @@ hash = "3264b7acc6887ee8705a16431619e39c56f3ce9f92fa9a312fb4da6cc6158e88"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "4b074d2fd85f419e85d9cbf921ca0f7a5ed5dd24158d1a4ec575838b6c7477e4"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "5613063f92427aa41a25bcdc97c65bd2f3111cf44c9d6e7df2626733ccd637e9"
 metafile = true
@@ -306,8 +326,33 @@ hash = "a4c2eac859f5fad975bbcc168f4f90559f06ac2af348a0f25c508998a19b13e7"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "37c090a0cce35fc898d2a4eda6e0381317a940923dac1afd712808f748ba1079"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "58a04d7f9184b5c7f848150cfb563085b21251d66a2c3e4a97b42e8bfa40c0dc"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-in-motion.pw.toml"
+hash = "53b80bb8e158ff63489017697d703e9e178ab57167bea5559f006cef158f7bcb"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "6d7f6c8988df205a776b8dc927457eb75c5c8bdee33406c095f55fd887d756c3"
+metafile = true
+
+[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "71c920bbbf7464754a2e7beb48e8dae545795cc6c36206623a45188a8072e03b"
+metafile = true
+
+[[files]]
+file = "mods/utilitarian.pw.toml"
+hash = "8f626f232b05da59a35c6227abca5c605a4c926df79ceab3ee8becb27c65860d"
 metafile = true
 
 [[files]]
