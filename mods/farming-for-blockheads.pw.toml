@@ -1,13 +1,13 @@
 name = "Farming for Blockheads"
-filename = "farmingforblockheads-neoforge-26.2-26.2.0.3.jar"
+filename = "farmingforblockheads-neoforge-26.1.2-26.1.2.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2aa0dba8d364cbfe4710cf1c66df571f694459bb"
+hash = "b72ef92e3d63a472404b3c6fa2e1aaf66d88cb12"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8545431
+file-id = 8754944
 project-id = 261924

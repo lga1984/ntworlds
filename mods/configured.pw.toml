@@ -1,13 +1,13 @@
 name = "Configured"
-filename = "configured-neoforge-26.2-2.7.5.jar"
+filename = "configured-neoforge-26.1.2-2.7.5.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "acdb5bce930c10a6f272a9b5ce0ecd47b8386f2d"
+hash = "3a637c1cebe6206f1e9923208744015e8bac3b01"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8403595
+file-id = 7943180
 project-id = 457570

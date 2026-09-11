@@ -1,13 +1,13 @@
 name = "Comforts"
-filename = "comforts-neoforge-16.0.0+26.2.jar"
+filename = "comforts-neoforge-15.0.0+26.1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4d8bb58c264cecc9b2210ee5d2fd6fcb8f8d025b"
+hash = "71cebd858e7ace14d192f8f749c8e00dd08fd164"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8303507
+file-id = 8298015
 project-id = 276951

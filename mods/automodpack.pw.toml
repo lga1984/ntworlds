@@ -1,13 +1,13 @@
 name = "AutoModpack"
-filename = "automodpack-mc26.2-neoforge-4.0.5.jar"
+filename = "automodpack-mc26.1.2-neoforge-4.0.6.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/k68glP2e/versions/4rbeqlE5/automodpack-mc26.2-neoforge-4.0.5.jar"
-hash-format = "sha512"
-hash = "050bf5c3bc15c555d891e6c99e631b88ceb7a9077addcf12773b1f8131bc31ce03f96546c3e009c34096718d461841cc3df066229ada1b4370fa713d5669eee4"
+hash-format = "sha1"
+hash = "d8eee9eed6dfee0c14fd43c7819b65195f988d40"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "k68glP2e"
-version = "4rbeqlE5"
+[update.curseforge]
+file-id = 8606553
+project-id = 639211

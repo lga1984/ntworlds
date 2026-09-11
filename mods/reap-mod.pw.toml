@@ -1,13 +1,13 @@
 name = "Reap Mod"
-filename = "reap-neoforge-1.1.4+26.2.jar"
+filename = "reap-neoforge-1.1.4+26.1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "cff6f393a7f7ac4125e91d80ffc9b6911159d1f3"
+hash = "12fac9a07ff67141edde3ce6e2e6ff81a443a083"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8258847
+file-id = 7970772
 project-id = 244256

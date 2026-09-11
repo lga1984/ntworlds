@@ -1,13 +1,13 @@
 name = "Macaw's Windows"
-filename = "mcw-windows-2.4.2-mc26.2neoforge.jar"
+filename = "mcw-windows-2.4.2-mc26.1neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "39bbdbf424c784be8392d608744a947f49742ebb"
+hash = "b15e3d23d43b9887bdfaffc23e8b55c7be7ef3b2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8286566
+file-id = 7809964
 project-id = 363569
