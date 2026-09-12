@@ -191,6 +191,11 @@ hash = "7862ba2c9352353e96f7408b3ff0fd705ad7f7ef7a67a1f11d952bec8697d549"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "3e3a9c123414630fc001e4301388a328dd2f08c1af793fc954fa07acb49f048b"
+metafile = true
+
+[[files]]
 file = "mods/glodium.pw.toml"
 hash = "27b7d2b614124f6e0d99728aceb2516f33be4b7af12694a362d25f1a3404d82c"
 metafile = true
