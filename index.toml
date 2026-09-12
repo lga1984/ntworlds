@@ -1,8 +1,38 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/advancedae.pw.toml"
+hash = "5c37b3a134296059dbd20e4d68c39acfeb84645db3b0aa5e4e78baf3725f8854"
+metafile = true
+
+[[files]]
+file = "mods/ae2-import-export-card.pw.toml"
+hash = "593b060fb8f5c120a27d7fa5776023b0de64bafabd890ee54a853a46661e37d3"
+metafile = true
+
+[[files]]
+file = "mods/ae2-network-analyser.pw.toml"
+hash = "2c02551673f48632fe91de9047d594e76db65349c148111bc8ebc810d5f6bdaa"
+metafile = true
+
+[[files]]
+file = "mods/aeinfinitybooster.pw.toml"
+hash = "9dcc7c3e063c905ec936e885507b3b8bfd963f6c4754b1c6e14e838ff268c6c6"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "de7c7b5b18ca4d989b40dc3a2d2f6508af2af418558ae4f08af2c2b4635648b1"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "6a4dbdd599210a3f02adc92b5191b3f19e4773de6a58bd8f8a546ee1e181165b"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "9fc4084ff27c9da30045f86bed2bad40f1517588ff13556bc64a6dc779528da4"
 metafile = true
 
 [[files]]
@@ -111,6 +141,11 @@ hash = "f871491abaffbc9f1324377525c4cbf47d46ffdf65def452b2816a009ead74aa"
 metafile = true
 
 [[files]]
+file = "mods/ex-pattern-provider.pw.toml"
+hash = "ce49d28609b9cb55d3ef89c24f4b5972e3ae5e5da03e5cd80e0d342edfc89335"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "8d0f3e17f96b895720a3d9bc73f71e46388f4dbea1ac4a6d3c2c0084d253f93c"
 metafile = true
@@ -138,6 +173,16 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "7862ba2c9352353e96f7408b3ff0fd705ad7f7ef7a67a1f11d952bec8697d549"
+metafile = true
+
+[[files]]
+file = "mods/glodium.pw.toml"
+hash = "27b7d2b614124f6e0d99728aceb2516f33be4b7af12694a362d25f1a3404d82c"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "8291833f453296384c8000f604a9d7bbe9d39109acb26dd45bdf4ac0fbe8c070"
 metafile = true
 
 [[files]]
@@ -248,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/measurements.pw.toml"
 hash = "3264b7acc6887ee8705a16431619e39c56f3ce9f92fa9a312fb4da6cc6158e88"
+metafile = true
+
+[[files]]
+file = "mods/merequester.pw.toml"
+hash = "106810ff6942e1d0fa18ebca8ae35048eb30e5de38af0ccdee70b6ad378f61af"
 metafile = true
 
 [[files]]
