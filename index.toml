@@ -36,6 +36,16 @@ hash = "9fc4084ff27c9da30045f86bed2bad40f1517588ff13556bc64a6dc779528da4"
 metafile = true
 
 [[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "932850c14ce8032503d748583298790c053c0413966058a02a9436f591e48bb2"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "c263ea32f8bfc2d5be468c1e45ed7fa1b813e9a18c0ea42c8d504d983945f7c6"
+metafile = true
+
+[[files]]
 file = "mods/automodpack.pw.toml"
 hash = "7477e1bedfc9643e5bd0f561a6ef8af2312b6c604df8ad3a9441169b35588ff2"
 metafile = true
@@ -118,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/croptopia.pw.toml"
 hash = "352d90d47ad7fd6718b06a03b7ec47c828e62540288b17b094ef384696ecaae5"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "ecd3bcb6ee3c1bc2b4b9f28ff0808eb7ef38207a6a9796f7f722d2b1993235d8"
 metafile = true
 
 [[files]]
