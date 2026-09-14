@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2-import-export-card.pw.toml"
-hash = "f6e7f5ca88383115aaefac6f7b914ad3b91fe76f2cdf08ec9f5cb2378b4ee191"
+hash = "570afe17464504830fac9ae0603b04b846ed875e70205865e4381573fb06ff31"
 metafile = true
 
 [[files]]
