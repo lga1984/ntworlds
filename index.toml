@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "2386d098576855d8c8552bc2cd0d060ce2442a3940090edb4d654f110799f13f"
+hash = "74ea040e5b8425a59caf7cd09401a96eaa7023bf6b9dcd0dad0ae8189ba70c77"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
-hash = "e9d478702b88f597efca337f1e6e14cc870060ae2cbf4f7e1f7dd99cfc604e30"
+hash = "1f5213f6a9b2101e01b6127e123e4132c11321183c80768ca6401735c62eafc3"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "6d7f6c8988df205a776b8dc927457eb75c5c8bdee33406c095f55fd887d756c3"
+hash = "c93fe07fe21c934a049aa6e2bf22395cf19197b9ed8a0ce56d4508505b594d7d"
 metafile = true
 
 [[files]]
