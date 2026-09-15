@@ -221,8 +221,8 @@ hash = "b4b3d6e8c35a322d0c11e34021d5c1e6c89b9e58394c67ab93fc71d23ff0e38f"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "c8679fb2e8557214c8c04177712832443c69fa44b791a319c51f7eff39006e17"
+file = "mods/irisshaders.pw.toml"
+hash = "8c5cb2dd49ce692382f07b658c273bba85623b94d655c88d87ecb3b867929138"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "faae5789dc62eab56e6e1f9b3200c109d535e54305ac2ea9627eaf9828d85fb5"
+hash = "4e1e2aa7716408595076c4f9472f4d7e4d54ddfe7657d0a963f1541c0042df55"
 metafile = true
 
 [[files]]
