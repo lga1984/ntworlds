@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
-hash = "37e78ddc7df7ed75a086178d928838206d0ea3431d0624aedc2977a8cab1d023"
+hash = "ad9059b0a3f8f82bd7b1beb5b3b64a477897657efccdaf9610cf88d6fccc73a6"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "90f20c476a56101793d8954475559afeba8d2be32d103cde7ec1967982993b58"
+hash = "6fe0db9e877c362bfbd99bf0a61d2988013bab215c20cfd55efa9b1e768b32c5"
 metafile = true
 
 [[files]]
