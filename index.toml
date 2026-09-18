@@ -1,50 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "automodpack/automodpack-server.json"
-hash = "f0416b8afeb3dbbb61d6de576480df989d5a2d45b23cb4ade61f017743331c46"
-
-[[files]]
-file = "config/Advancedperipherals/world.toml"
-hash = "d486fb0f8fcff4f5f8fdf9fecd145ca664f342a3f0510cf0944afdf0d2a8ec0c"
-
-[[files]]
-file = "config/Mekanism/common.toml"
-hash = "26670be76c4d4ef207d746f2cf5d6c589b2b219ecb71f763bb697692c99fb338"
-
-[[files]]
-file = "config/ae2-common.toml"
-hash = "ecf46395c29f1fdd169aa0853364acc349e6ebe3ce10a969b3dbc90177bc97f4"
-
-[[files]]
-file = "config/bluemap/webserver.conf"
-hash = "7c86e02ad1f022048195b5cc59ab3fb2ee4b4398b2705b97f98e949f606aa23c"
-
-[[files]]
-file = "config/computercraft-server.toml"
-hash = "c2aa8857aa623171867ccfc28b8ea85a3ee86d0feba8c5e62a3e06e5b86b7fd9"
-
-[[files]]
-file = "config/fml.toml"
-hash = "07c546de707ca14a8e3e0f3ae2de289ba0e52f486af6f627d098ceb044b72173"
-
-[[files]]
-file = "config/jei/jei-client.ini"
-hash = "3adf91b72c9aec32b06f6d4e1b4c6c43a77d03db46a15344e802eae236b10f2e"
-
-[[files]]
-file = "config/modernfix-mixins.properties"
-hash = "8dbcb31b752906466d0541655e9c8b8db19b9fda0b770c9df8f6cf8b7a1f65fd"
-
-[[files]]
-file = "config/securitycraft-client.toml"
-hash = "76ece0728cb7f2c58c0fe1e306ae645a04dfc8dc6e66bd8bcc9e34fb1609a5f0"
-
-[[files]]
-file = "config/xaero/minimap/profiles/default.cfg"
-hash = "f1ff62b22cfc97486d00e8bd3367a3207f0a8da235e7b365c5aa2a54e3f8dc25"
-
-[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "0c31f109b6c4dca94a153fbdd827bbd5f96149fd5c7863ba0ba41fcab801afe0"
 metafile = true
