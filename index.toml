@@ -646,11 +646,6 @@ hash = "6cb053381e774f83642c33b1673dead3508a5ea5b3a81c7a59044ff65cc72861"
 metafile = true
 
 [[files]]
-file = "mods/sophisticated-item-actions.pw.toml"
-hash = "2665bd5b22af9ed6694f0edb557293841e53e9a9044366fb77416057ec744f6b"
-metafile = true
-
-[[files]]
 file = "mods/sophisticated-storage-create-integration.pw.toml"
 hash = "78a821b1555c067aa6a1efb5a8a1a8f467ad958fcf2af7649534d61ea31c510e"
 metafile = true
