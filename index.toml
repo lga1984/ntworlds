@@ -456,6 +456,11 @@ hash = "bc87e226630301bf745b36005cded9327d37ebca276d5a51413a8539abb7025f"
 metafile = true
 
 [[files]]
+file = "mods/industrially-plated.pw.toml"
+hash = "aaa986b066b53f5866d770f8ea763bdd2432b77bca6a3f29cbdb8b5f82ed465f"
+metafile = true
+
+[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "4ffc60056662607f59ddc198f760347e6250319d1d2d411cc2f9f576a532bd9c"
 metafile = true
