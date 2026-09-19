@@ -236,6 +236,11 @@ hash = "6f3ca9bd523f79878881be9f87ee9f95191d39de3a3170107d727a66739ea7d5"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "a21d5d0e2e3c1b5662ca1dc907cf496bb9f2a94b368a3f291967e8ba29043eaa"
+metafile = true
+
+[[files]]
 file = "mods/crafting-on-a-stick.pw.toml"
 hash = "9e1fd510d8a87878dd151638ca19474493c814e3576ad3900006b265c28a02df"
 metafile = true
@@ -271,8 +276,23 @@ hash = "792656064c1a91d6d5ec6add1e707c3c99b20668be099e836d6adff4703f43ae"
 metafile = true
 
 [[files]]
+file = "mods/create-connected.pw.toml"
+hash = "3b1b6163af92aa709dbc1800f76654db759a6ae590a6dd1858509138e1a70d6c"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "900880f684238d2489dc6859c354abc7b145c617dbdac42e1873604632b9c831"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "1c4ef917261df03afd366b0c34307ee0fa06374b52b8e88378ce7205ab58d4e1"
+metafile = true
+
+[[files]]
+file = "mods/create-tracks.pw.toml"
+hash = "6652073f815bed51608dc9d6a9e769ec783a131526054b35e8de6f47c8745fa2"
 metafile = true
 
 [[files]]
@@ -303,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "c56308261dfa7e99acb1b6ceebef3a03550122756890c7eb4e16edeff85364d6"
+metafile = true
+
+[[files]]
+file = "mods/drive-by-wire-with-sable.pw.toml"
+hash = "9cae535d0e517933a95ce8819a52f0bc603dab6924de89f65de22d180fa5d6fe"
 metafile = true
 
 [[files]]
@@ -463,6 +488,11 @@ metafile = true
 [[files]]
 file = "mods/industrially-plated.pw.toml"
 hash = "aaa986b066b53f5866d770f8ea763bdd2432b77bca6a3f29cbdb8b5f82ed465f"
+metafile = true
+
+[[files]]
+file = "mods/interiors.pw.toml"
+hash = "34fe94ba3007bf74e8e25c50bcba24b69671bf8e5258d117a0550450ea992269"
 metafile = true
 
 [[files]]
