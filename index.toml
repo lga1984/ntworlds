@@ -6,6 +6,16 @@ hash = "0c31f109b6c4dca94a153fbdd827bbd5f96149fd5c7863ba0ba41fcab801afe0"
 metafile = true
 
 [[files]]
+file = "mods/advanced-core-info.pw.toml"
+hash = "c8d19e2c305ff8e9c978992c132798be135601f4ea245b0114bfeef60b80b484"
+metafile = true
+
+[[files]]
+file = "mods/advanced-loot-info.pw.toml"
+hash = "c78f0837d82e9ae47af79be51a3226152ff93394edc254b930d394a87fcbcb47"
+metafile = true
+
+[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "9554839248a8a90229737e18cb2410aeb27d7b195c1e0758d1bb9dd042d1760c"
 metafile = true
@@ -33,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/ae2-network-analyser.pw.toml"
 hash = "23ca334019a3e9572ea1c462d5c4e732eb34f657111951cfb781cd52da59b08c"
+metafile = true
+
+[[files]]
+file = "mods/ali-compat.pw.toml"
+hash = "a1052e9ca99deccb5e463134109e1d5109d20406c61601d11815857efad13988"
 metafile = true
 
 [[files]]
