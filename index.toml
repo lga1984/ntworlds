@@ -576,6 +576,11 @@ hash = "d270c535152d5388823cbd3913a0f14b088ef14f91f9eec61444f1102d19bdc1"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-ponders.pw.toml"
+hash = "44488ee5ed9a3dfe91afc3245b763ebc228801bd34724707b3665afa7fedde03"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-tools.pw.toml"
 hash = "2d6a6b9cef775c2baff586138fd0833595000295b645cc9813f84833c38cb415"
 metafile = true
@@ -583,6 +588,11 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "290b13afab94146d1159d821b73c8c98f5299b4df75fd28e826f9fd409e9bb40"
+metafile = true
+
+[[files]]
+file = "mods/mekanistic-routers.pw.toml"
+hash = "e0d9755760c180395cbddb1cf18278e9d2b736b692390ab44dc05d56509a15ee"
 metafile = true
 
 [[files]]
@@ -598,6 +608,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "1813b429f0782edb4d0c428f00da0c760acea32ede566656588af99c6ad10a11"
+metafile = true
+
+[[files]]
+file = "mods/modular-routers.pw.toml"
+hash = "bbd0fee939a90c478aa404630629a49ab764ab7dd48ca6c9b928889769c32a89"
 metafile = true
 
 [[files]]
