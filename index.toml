@@ -281,11 +281,6 @@ hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "c56308261dfa7e99acb1b6ceebef3a03550122756890c7eb4e16edeff85364d6"
-metafile = true
-
-[[files]]
 file = "mods/easy-piglins.pw.toml"
 hash = "dfe4db00397fce2c9665d65f8470d08607bea98c92930e414322d83bcdb843ed"
 metafile = true
@@ -438,11 +433,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "bc87e226630301bf745b36005cded9327d37ebca276d5a51413a8539abb7025f"
-metafile = true
-
-[[files]]
-file = "mods/industrially-plated.pw.toml"
-hash = "aaa986b066b53f5866d770f8ea763bdd2432b77bca6a3f29cbdb8b5f82ed465f"
 metafile = true
 
 [[files]]
