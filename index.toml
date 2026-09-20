@@ -481,6 +481,11 @@ hash = "4b0a995f7cfa19951ba585aa320a1f4ef1a755a38b608adcff2f9ddd156b195b"
 metafile = true
 
 [[files]]
+file = "mods/jamd.pw.toml"
+hash = "d79e4f41f50658be56d750bc32f3be1033c35cd9597bc599c89bc3fda7a54e82"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "28fa7ee636f28a2868359b7b3398b04b969e98e4da5c6b7dd6b91707d7991081"
 metafile = true
@@ -868,6 +873,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "b1908d3251d722ec5c18f2483b8c56743d7cae91f644caa6d82e1b3b5b64f604"
+metafile = true
+
+[[files]]
+file = "mods/trenzalore.pw.toml"
+hash = "97b31515b4ea9f529c8d41770bc4e584321929b014bd5ab460905114de17492b"
 metafile = true
 
 [[files]]
