@@ -601,6 +601,11 @@ hash = "e0d9755760c180395cbddb1cf18278e9d2b736b692390ab44dc05d56509a15ee"
 metafile = true
 
 [[files]]
+file = "mods/merequester.pw.toml"
+hash = "490c62f126037c9258c345e3f2a1c523f004179c7026072d9301391f9c5ecf75"
+metafile = true
+
+[[files]]
 file = "mods/mezzconfig.pw.toml"
 hash = "dd3830820c683676dd7e37cbbe906f3b1449f9d3825d8fbcfd148766c073eae5"
 metafile = true
