@@ -136,11 +136,6 @@ hash = "5f30c1c0363dd44c10db196a8d8a7f164ff06e06b0b80234a519d9e49b2a7f84"
 metafile = true
 
 [[files]]
-file = "mods/biolith.pw.toml"
-hash = "f53d98dc09fb5abb52798e5dfd25297d85a290e1e4874d8208b981654799121e"
-metafile = true
-
-[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "ff5879f6ad48b7a48c391054e26ef4d70b96f7339bff3bec28877e0ab919f998"
 metafile = true
@@ -313,11 +308,6 @@ metafile = true
 [[files]]
 file = "mods/etched.pw.toml"
 hash = "82e12d4fe6767264c396cab79de5b7165d022c8ab851765ef4e38d3a3be20232"
-metafile = true
-
-[[files]]
-file = "mods/every-compat.pw.toml"
-hash = "6c98a1b597a8b166b16ed919fb984df65aec3468906ba6e838e03641dd9c52ce"
 metafile = true
 
 [[files]]
@@ -673,11 +663,6 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
-metafile = true
-
-[[files]]
-file = "mods/no-mans-land.pw.toml"
-hash = "b24699e5aa7fe877792507055aea1a03b284d41703edca7c640aa149b99848ef"
 metafile = true
 
 [[files]]
