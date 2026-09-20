@@ -6,16 +6,6 @@ hash = "0c31f109b6c4dca94a153fbdd827bbd5f96149fd5c7863ba0ba41fcab801afe0"
 metafile = true
 
 [[files]]
-file = "mods/advanced-core-info.pw.toml"
-hash = "c8d19e2c305ff8e9c978992c132798be135601f4ea245b0114bfeef60b80b484"
-metafile = true
-
-[[files]]
-file = "mods/advanced-loot-info.pw.toml"
-hash = "c78f0837d82e9ae47af79be51a3226152ff93394edc254b930d394a87fcbcb47"
-metafile = true
-
-[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "9554839248a8a90229737e18cb2410aeb27d7b195c1e0758d1bb9dd042d1760c"
 metafile = true
@@ -43,11 +33,6 @@ metafile = true
 [[files]]
 file = "mods/ae2-network-analyser.pw.toml"
 hash = "23ca334019a3e9572ea1c462d5c4e732eb34f657111951cfb781cd52da59b08c"
-metafile = true
-
-[[files]]
-file = "mods/ali-compat.pw.toml"
-hash = "a1052e9ca99deccb5e463134109e1d5109d20406c61601d11815857efad13988"
 metafile = true
 
 [[files]]
@@ -243,11 +228,6 @@ metafile = true
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "9942062b933fc042f551ff9539c81ca37ef8e97eec7d35f7800805a9d285b956"
-metafile = true
-
-[[files]]
-file = "mods/crash-utilities.pw.toml"
-hash = "6457e8702c7c3d603e1e35252bf2388db4ec44c875209af3c4364a79f4c1709c"
 metafile = true
 
 [[files]]
@@ -521,11 +501,6 @@ hash = "05aa5d04a38f1c1829e39056462b003a8cd313e22c5cd9e015a8bb413a14fdc7"
 metafile = true
 
 [[files]]
-file = "mods/kotlin-for-forge.pw.toml"
-hash = "1506a3d749a45bc760b3ad57ef1fbb959f0c166b6d1d4955114fd66db7a4855d"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "7211de0ddeab153fc2bf9588f5922de705006be507002ec03cb9f8e6b67ab4cf"
 metafile = true
@@ -616,11 +591,6 @@ hash = "d270c535152d5388823cbd3913a0f14b088ef14f91f9eec61444f1102d19bdc1"
 metafile = true
 
 [[files]]
-file = "mods/mekanism-ponders.pw.toml"
-hash = "44488ee5ed9a3dfe91afc3245b763ebc228801bd34724707b3665afa7fedde03"
-metafile = true
-
-[[files]]
 file = "mods/mekanism-tools.pw.toml"
 hash = "2d6a6b9cef775c2baff586138fd0833595000295b645cc9813f84833c38cb415"
 metafile = true
@@ -708,11 +678,6 @@ metafile = true
 [[files]]
 file = "mods/no-mans-land.pw.toml"
 hash = "b24699e5aa7fe877792507055aea1a03b284d41703edca7c640aa149b99848ef"
-metafile = true
-
-[[files]]
-file = "mods/observable.pw.toml"
-hash = "00fb150ec4389dbe540bcede8ac3b6e34677f5bf3e3454732d311b7e44569d63"
 metafile = true
 
 [[files]]
