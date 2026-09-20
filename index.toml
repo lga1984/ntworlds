@@ -487,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "28fa7ee636f28a2868359b7b3398b04b969e98e4da5c6b7dd6b91707d7991081"
+hash = "38519ca666ffbde84a0d20877cb7f3d17aee6b20ab6e75d5e1ad85c4bec031e5"
 metafile = true
 
 [[files]]
@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "db7288121ed92b50f70b67886919279445ff115a6b078c31c2897ab8204ca44a"
+hash = "f55b8c6587d7c648f205e525e7c77e79f44da97c35b42e0bf2bf2706e02d238c"
 metafile = true
 
 [[files]]
