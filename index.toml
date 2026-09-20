@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/classic-peripherals.pw.toml"
-hash = "f2589e76b3214024085e4f99dc2058f44c5f8c24b5b3e3a3c8aa7d12dbd9b144"
+hash = "f207df4ca63e80cc8e4c833bdc4be5518b8b8b803efa3012e35409d0ddc2a543"
 metafile = true
 
 [[files]]
