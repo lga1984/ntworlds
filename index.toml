@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/mezzconfig.pw.toml"
-hash = "297e0e30bc47224a59b615ba9cdce7c1a7a45f36c037fc61ff4a67150363fab1"
+hash = "88237d3c68504a746aea0b75ae035537e8ae22af861f3536db5309dccd812360"
 metafile = true
 
 [[files]]
@@ -792,7 +792,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-link-bot-forge-fabric-spigot.pw.toml"
-hash = "bb409bfe7a8a462b3fa29530b627d5e6c3b6ea9a2f4f57bb9264566a9391ae6c"
+hash = "9efb5beee9c3f2d4ad70a8c7b3b0280a5f9f6da576671a0534541c1e7fc28544"
 metafile = true
 
 [[files]]
