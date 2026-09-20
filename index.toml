@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2-import-export-card.pw.toml"
-hash = "3d0a1de0eb525f1d98ee4ceafc712555d27fd8145ca494c9cfbb3bfae6ec0389"
+hash = "88d07ee20c89b52929b2969c7271bf445e66202a6572cec9014b17d4e73622c3"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "85b032d6fc2208b2ff0c3a247328ea9a89bace96a7cfca30757b566955406ed3"
+hash = "50ba38ecb113e5ca8bc7c39ee2533f29c13501fc952e119af73be05e3e6debd7"
 metafile = true
 
 [[files]]
