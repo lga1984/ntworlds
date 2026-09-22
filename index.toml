@@ -201,11 +201,6 @@ hash = "b66c76dd9148686b0bccc5166839892b2442197504510bd9cca1306755a18ad1"
 metafile = true
 
 [[files]]
-file = "mods/configured.pw.toml"
-hash = "e1652216456cb6c5026b3e6b48d98b1509457eb6d974e18002af4ec3bf040ffa"
-metafile = true
-
-[[files]]
 file = "mods/construction-sticks.pw.toml"
 hash = "f9467bea7593983f43d8cbaeb34ec5ea3d643992843b8455a0b80e94f8f2a105"
 metafile = true
