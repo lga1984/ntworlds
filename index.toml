@@ -876,8 +876,8 @@ hash = "97b31515b4ea9f529c8d41770bc4e584321929b014bd5ab460905114de17492b"
 metafile = true
 
 [[files]]
-file = "mods/upgrader-items.pw.toml"
-hash = "105273c797adfeb5629de6b79d2b34aab7cbb075f8132a103bf0957b85156759"
+file = "mods/upgrade-items.pw.toml"
+hash = "110a702890e9a23a3247cc962fd387aee9e792368666b8d7b0ab42ddf582a73e"
 metafile = true
 
 [[files]]
