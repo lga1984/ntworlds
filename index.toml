@@ -301,6 +301,11 @@ hash = "2e137ea0702d21a9be7943d997bedf98f2c47751a621341081020a2bb53db4ae"
 metafile = true
 
 [[files]]
+file = "mods/enderdrives.pw.toml"
+hash = "337ac17687c7a3a3ac6192cc8f5c80c946dca6bb9150d57b7007243c2500e595"
+metafile = true
+
+[[files]]
 file = "mods/energymeter.pw.toml"
 hash = "5cd770a5eba0230212e73f9a4c26cfa6b211690e35756d244c87250f54d99588"
 metafile = true
