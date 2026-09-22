@@ -1,13 +1,13 @@
 name = "MezzConfigGUI"
-filename = "mezz_config_gui-1.21.1-neoforge-mc1.21.1-0.5.2.jar"
+filename = "mezz_config_gui-1.21.1-neoforge-mc1.21.1-0.5.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "aba4aa55d98a35d7aade0fc36e58bab9d66becde"
+hash = "17527d0e66cf03692193adf949ee90bc2a096a11"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8929085
+file-id = 8937169
 project-id = 1700987
