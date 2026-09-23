@@ -741,6 +741,11 @@ hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "50e7e41a1d53a71b6ce78af1a938ca9aecd0d59c4f9e80241b07e35def36638d"
+metafile = true
+
+[[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "208de52370a896983814bd3f69ed0e2b46ca52d99603656562f3890f96d151da"
 metafile = true
@@ -918,4 +923,9 @@ metafile = true
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
 hash = "76b07f47147fb18bb31d8719f9c7beb6622b55f59ae14411c7cf022b4d99d910"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
 metafile = true
