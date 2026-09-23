@@ -751,6 +751,11 @@ hash = "208de52370a896983814bd3f69ed0e2b46ca52d99603656562f3890f96d151da"
 metafile = true
 
 [[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "a63a24d0d6357d1ca0f72dc60351ff2c18d708be6ee1f6f8f9dcfd5f25983ceb"
+metafile = true
+
+[[files]]
 file = "mods/reliquary-reincarnations.pw.toml"
 hash = "91736406e4eed8ad3e6aeee327931ee74826780179d22a4ae47b95e468edfe07"
 metafile = true
@@ -793,6 +798,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "4447f298596245cf7990175f85aadf51f3c39e9749deea092717769345d063a1"
+metafile = true
+
+[[files]]
+file = "mods/shatterbyte-lib.pw.toml"
+hash = "4f38a1932a493c7b100f13356c65bf1cc4d43e4cb3430d428202452d1d5800a0"
 metafile = true
 
 [[files]]
