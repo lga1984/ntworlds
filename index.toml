@@ -551,6 +551,11 @@ hash = "37e96fec653b3a8463d08eec8264fb8f97a9497b8a50723dd659c193a70f021f"
 metafile = true
 
 [[files]]
+file = "mods/macaws-roads-and-streets.pw.toml"
+hash = "e7116632a84df14e7f8e52c8cca912f4c35ab891a4d799cd38fe18b77ab58d9f"
+metafile = true
+
+[[files]]
 file = "mods/macaws-roofs.pw.toml"
 hash = "8b0e9d3c66f2a5276a3e1eaaab073f4e41f8d352c6d282e724129c23f0940bfc"
 metafile = true
