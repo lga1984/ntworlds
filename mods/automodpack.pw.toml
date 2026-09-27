@@ -1,13 +1,13 @@
 name = "AutoModpack"
-filename = "automodpack-mc1.21.1-neoforge-4.0.6.jar"
+filename = "automodpack-5.0.0-rc.1.jar"
 side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "5aa569cc3022a2dfcc6622a7cb2cb5c045318392"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/k68glP2e/versions/qpeqKKkQ/automodpack-5.0.0-rc.1.jar"
+hash-format = "sha512"
+hash = "88082d39c00369d086d9c90847f87f5807bfd1ae24968881fb3fbd9efeaff53daf974d5924a0c29aab463cbf2fb63580bb564387ae305c801274a65d0ba9993d"
 
 [update]
-[update.curseforge]
-file-id = 8606541
-project-id = 639211
+[update.modrinth]
+mod-id = "k68glP2e"
+version = "qpeqKKkQ"
