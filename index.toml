@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "afa4f499d946514c51f41f8f2202ac0946052b012570a210ebb31f0d0d627672"
+hash = "4b78352cbccdb3400530955a3e1271b2a60aec604e26e2ecdbf840faf0457d47"
 metafile = true
 
 [[files]]
@@ -862,7 +862,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "b98044a79a4ff5098c0909cbfb948b3c5baa79b01950e252c8c9576de36c4ae8"
+hash = "6121e4631e5fccc9f32c08ec06491fa6383c954d4f6b9b05b05053e435c1d6e2"
 metafile = true
 
 [[files]]
