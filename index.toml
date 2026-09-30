@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/automodpack.pw.toml"
-hash = "651a35a2fe503db9d6afa62da6192085de40664abb8e1a76e9de8668175dda68"
+hash = "7582925646824e90f07e8c6f5b91985a3780fd0ad47724fecd69bb128f4d4c32"
 metafile = true
 
 [[files]]
@@ -412,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "2e72d40c6d7b128981b19b71c19d45eb6813f1af87ae1abe1cf92adfa5e8223f"
+hash = "19d86081a1c7654a91f437d85ea34af4e3f2b899c8e0e50d48a04ca97babf7b4"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "47c701c67e70b60b3a71c9ec4aff707ea0411f033024730b1ca0567b8526a824"
+hash = "dff78a2bb35aed61cf73edaf1913c1fafec2a3a50551e022648c658cc21e32f9"
 metafile = true
 
 [[files]]
@@ -642,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/mezzconfiggui.pw.toml"
-hash = "3598c5765d22544868b17a49aee1970d63849cf21a5a9c82d9137a1d67a82d61"
+hash = "c8e892b182d86465ffaf7f2a6290164656946fafb4e13f36c4a664972d7fe011"
 metafile = true
 
 [[files]]
@@ -857,7 +857,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "6121e4631e5fccc9f32c08ec06491fa6383c954d4f6b9b05b05053e435c1d6e2"
+hash = "421d98b34968a7ee16c95485e6e8463a259e96abdaf88e6c5b943cbbe9119462"
 metafile = true
 
 [[files]]
