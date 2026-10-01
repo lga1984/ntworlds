@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/baubley-heart-canisters.pw.toml"
-hash = "83fe3900b1f8a8df1f81b1cdcc93e738fa617299de68bdc8c5c9aac22f1c4509"
+hash = "c85a4b9881a39b0a2407bcc385d3f08ddf21612c4b8fa85c90d8d1d76be63ee6"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-ae.pw.toml"
-hash = "8795622574bd611a9d46c850fef144863326693ac0d91ad3e29511fb6b9d2a74"
+hash = "0f8b32aaac52902d638c6681f08f4f160a24955a00a3587d080661b0228c9162"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/mezzconfig.pw.toml"
-hash = "0a94f9ca9a86267c51832956da72f6f9b8ba598dcac48c3a93b6e50d38089879"
+hash = "e9f9d37f2fe36a749d97a79b32dca6a1b9294fb39f609dae8487a55ef634b1f2"
 metafile = true
 
 [[files]]
