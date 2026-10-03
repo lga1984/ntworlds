@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
-hash = "e926d31a8a5e87d5f76945e4e42f01f61bbd99d064efddbc601ca7f065d8da87"
+hash = "b992b5ea270c98635a0dfcc1db70815f441cb9a7aa7a4fdaf46192f4ed553c76"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/mezzconfig.pw.toml"
-hash = "e9f9d37f2fe36a749d97a79b32dca6a1b9294fb39f609dae8487a55ef634b1f2"
+hash = "f906a1c117309845cbf79e27e81f78da78db22cdf67477a45a8b5308785eac1b"
 metafile = true
 
 [[files]]

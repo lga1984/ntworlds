@@ -1,13 +1,13 @@
 name = "MezzConfig"
-filename = "mezz_config-1.21.1-neoforge-0.6.6-standalone.jar"
+filename = "mezz_config-1.21.1-neoforge-0.6.7-standalone.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ece9c53abe11d74f807afff505fcfed5a71a4129"
+hash = "10825aeeb71e1b727f92bef6332a3291711c7140"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9019059
+file-id = 9045276
 project-id = 1689768
