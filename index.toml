@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
-hash = "82d72ac4b1d62c7a1d14de30f403513dead518f1218f94ddba452f2f4bca21c2"
+hash = "d106889bc360ce61c2c3242624d33b38891a782d5430fd2247aa0e2e5457487f"
 metafile = true
 
 [[files]]
@@ -682,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/mystical-agradditions.pw.toml"
-hash = "16ea9e9370cad907244a724cf29bd20790c10f8babac239bfae13deea49dafd4"
+hash = "83989cbdabb4581d3987d208f8cf24d69b1a7f80234476343970a4798adc7ff8"
 metafile = true
 
 [[files]]
@@ -697,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/mystical-automation.pw.toml"
-hash = "85526eb03c23ca6efb1899b747ca454a639ebe3458423fd6c2d1f7e066408b86"
+hash = "39561860b050047a2c1605cbf496777323af8edaa0e8d0766e84c027a77e614b"
 metafile = true
 
 [[files]]
@@ -802,7 +802,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "f21e2db6083eb58ee1b96630cf345c38ee7b93296da7990f27155480f3f2b6e1"
+hash = "f2c81cf494b7b6c1063563d7377224cf64b29e0b86bcf87bcf4da8eb79b9c800"
 metafile = true
 
 [[files]]
@@ -862,7 +862,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "8af281d3b1ccd96f29465e5180ad1a1c83b48e55cc01ed5ccb1dd7d84d6f14fb"
+hash = "62e75c73c641329bb5c239676930ed6d5da5945ab00ce1e0397ca256c1c5fb2b"
 metafile = true
 
 [[files]]
