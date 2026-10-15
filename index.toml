@@ -221,11 +221,6 @@ hash = "6dc9e6eb0dd13df1244bf6e7272f5648221142b65be00713f5e9dc76ea223730"
 metafile = true
 
 [[files]]
-file = "mods/cooks-collection.pw.toml"
-hash = "338fd079b0c5a2c603ba4606114064dd910617371db86f6e46bc0d351b0d7cd5"
-metafile = true
-
-[[files]]
 file = "mods/crafting-on-a-stick.pw.toml"
 hash = "9e1fd510d8a87878dd151638ca19474493c814e3576ad3900006b265c28a02df"
 metafile = true
